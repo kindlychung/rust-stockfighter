@@ -39,7 +39,8 @@ fn main() {
     if args.flag_version
     {
         println!("StockFighter v{}", VERSION)
-    } else if args.cmd_checkapi
+    }
+    else if args.cmd_checkapi
     {
         let check_api = check_api::check_api();
 
@@ -51,12 +52,11 @@ fn main() {
         {
             println!("StockFighter API is down. Error is {}", check_api.error)
         }
-    } else if args.cmd_checkvenue
+    }
+    else if args.cmd_checkvenue
     {
         let venue = args.arg_venue.to_string();
         let check_venue = check_venue::check_venue(args.arg_venue);
-
-        println!("{}", check_venue.ok);
 
         if check_venue.ok
         {
