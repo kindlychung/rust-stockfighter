@@ -16,7 +16,5 @@ pub fn check_api() -> CheckApiResponse {
 
     let response = request.send_request();
 
-    let deserialized: CheckApiResponse = json::decode(&response).unwrap();
-
-    return deserialized;
+    json::decode(&response).unwrap()
 }

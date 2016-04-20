@@ -26,7 +26,6 @@ impl Request {
         // Read the Response.
         let mut body = String::new();
         res.read_to_string(&mut body).unwrap();
-
-        return body;
+        body
     }
 }
