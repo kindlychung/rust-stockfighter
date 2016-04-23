@@ -1,11 +1,11 @@
 use request::Request;
 use rustc_serialize::json;
-use rustc_serialize::{Encoder, Encodable, Decoder, Decodable};
+use rustc_serialize::{Decoder, Decodable};
 
-pub struct CheckVenueResponse{
+struct CheckVenueResponse {
     pub ok: bool,
     pub venue: String,
-    pub error: String
+    pub error: String,
 }
 
 impl Decodable for CheckVenueResponse {
@@ -14,35 +14,36 @@ impl Decodable for CheckVenueResponse {
 
             let okresponse = try!(d.read_struct_field("ok", 0, |d| Decodable::decode(d)));
 
-            let mut venueresponse:String = "".to_string();
-            let mut errorreponse:String= "".to_string();
-            if okresponse
-            {
+            let mut venueresponse: String = "".to_string();
+            let mut errorreponse: String = "".to_string();
+
+            if okresponse {
                 venueresponse = try!(d.read_struct_field("venue", 0, |d| Decodable::decode(d)));
-            }
-            else
-            {
+            } else {
                 errorreponse = try!(d.read_struct_field("error", 0, |d| Decodable::decode(d)));
             }
 
-            Ok(CheckVenueResponse{
+            Ok(CheckVenueResponse {
                 ok: okresponse,
                 venue: venueresponse,
-                error: errorreponse
-
+                error: errorreponse,
             })
         })
     }
 }
 
-pub fn check_venue(venue: String) -> CheckVenueResponse {
+pub fn check_venue(venue: String) -> Result<String, String> {
 
     let request = Request {
-            requires_auth: false,
-            request_url: format!("https://api.stockfighter.io/ob/api/venues/{}/heartbeat", venue)
-        };
+        requires_auth: false,
+        request_url: format!("https://api.stockfighter.io/ob/api/venues/{}/heartbeat",
+                             venue),
+    };
 
     let deserialized: CheckVenueResponse = json::decode(&request.send_request()).unwrap();
 
-    return deserialized;
+    if deserialized.ok {
+        return Ok(deserialized.venue);
+    }
+    return Err(deserialized.error);
 }

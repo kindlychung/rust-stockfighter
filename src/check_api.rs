@@ -2,19 +2,25 @@ use request::Request;
 use rustc_serialize::json;
 
 #[derive(RustcDecodable, RustcEncodable)]
-pub struct CheckApiResponse{
+struct CheckApiResponse {
     pub ok: bool,
-    pub error: String
+    pub error: String,
 }
 
-pub fn check_api() -> CheckApiResponse {
+pub fn check_api() -> Result<(), String> {
 
     let request = Request {
-            requires_auth: false,
-            request_url: "https://api.stockfighter.io/ob/api/heartbeat".to_string()
-        };
+        requires_auth: false,
+        request_url: "https://api.stockfighter.io/ob/api/heartbeat".to_string(),
+    };
 
     let response = request.send_request();
 
-    json::decode(&response).unwrap()
+    let deserialized: CheckApiResponse = json::decode(&response).unwrap();
+
+    if deserialized.ok {
+        return Ok(());
+    }
+
+    return Err(deserialized.error)
 }
