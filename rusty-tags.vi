@@ -5,22 +5,22 @@ AccessControlAllowCredentials	/Users/kaiyin/.multirust/toolchains/nightly/cargo/
 AccessControlAllowOrigin	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/access_control_allow_origin.rs	/^pub enum AccessControlAllowOrigin {$/;"	g
 Animal	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    enum Animal {$/;"	g
 ArbitraryType	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^        struct ArbitraryType(u32);$/;"	s
-Args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/cargo.rs	/^struct Args {$/;"	s
-Args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/cp.rs	/^struct Args {$/;"	s
-Args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/decode.rs	/^struct Args {$/;"	s
-Args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/optional_command.rs	/^struct Args {$/;"	s
-Args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/verbose_multiple.rs	/^struct Args {$/;"	s
-Args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/test/mod.rs	/^    struct Args {$/;"	s
-Args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/wordlist.rs	/^struct Args {$/;"	s
+Args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/cargo.rs	/^struct Args {$/;"	s
+Args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/cp.rs	/^struct Args {$/;"	s
+Args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/decode.rs	/^struct Args {$/;"	s
+Args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/optional_command.rs	/^struct Args {$/;"	s
+Args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/verbose_multiple.rs	/^struct Args {$/;"	s
+Args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/test/mod.rs	/^    struct Args {$/;"	s
+Args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/wordlist.rs	/^struct Args {$/;"	s
 Args	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/main.rs	/^struct Args {$/;"	s
-Argument	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^pub enum Argument {$/;"	g
-Argv	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^pub struct Argv<'a> {$/;"	s
-ArgvMap	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^pub struct ArgvMap {$/;"	s
-ArgvToken	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^struct ArgvToken {$/;"	s
+Argument	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^pub enum Argument {$/;"	g
+Argv	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^pub struct Argv<'a> {$/;"	s
+ArgvMap	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^pub struct ArgvMap {$/;"	s
+ArgvToken	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^struct ArgvToken {$/;"	s
 Array	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^pub type Array = Vec<Json>;$/;"	T
 AsJson	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^pub struct AsJson<'a, T: 'a> { inner: &'a T }$/;"	s
 AsPrettyJson	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^pub struct AsPrettyJson<'a, T: 'a> { inner: &'a T, indent: Option<u32> }$/;"	s
-Atom	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^pub enum Atom {$/;"	g
+Atom	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^pub enum Atom {$/;"	g
 Authorization	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/authorization.rs	/^pub struct Authorization<S: Scheme>(pub S);$/;"	s
 BASE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/punycode.rs	/^static BASE: u32 = 36;$/;"	c
 BUF	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    const BUF: &'static str = "                ";$/;"	c
@@ -41,13 +41,13 @@ CharRanges	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github
 CharacterSet	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/base64.rs	/^pub enum CharacterSet {$/;"	g
 Charset	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/shared/charset.rs	/^pub enum Charset{$/;"	g
 ChatEvent	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^        enum ChatEvent {$/;"	g
-CheckApiResponse	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/check_api.rs	/^pub struct CheckApiResponse{$/;"	s
-CheckVenueResponse	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/check_venue.rs	/^pub struct CheckVenueResponse{$/;"	s
+CheckApiResponse	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/check_api.rs	/^pub struct CheckApiResponse {$/;"	s
+CheckVenueResponse	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/check_venue.rs	/^pub struct CheckVenueResponse {$/;"	s
 Client	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/mod.rs	/^pub struct Client {$/;"	s
 CloneableMockStream	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/mock.rs	/^pub struct CloneableMockStream {$/;"	s
 CloneableStream	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h2.rs	/^pub trait CloneableStream: NetworkStream + Clone {}$/;"	t
-Command	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/cargo.rs	/^enum Command {$/;"	g
-Command	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/optional_command.rs	/^enum Command { A, B, C, Unknown(String), None }$/;"	g
+Command	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/cargo.rs	/^enum Command {$/;"	g
+Command	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/optional_command.rs	/^enum Command { A, B, C, Unknown(String), None }$/;"	g
 Config	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/pool.rs	/^pub struct Config {$/;"	s
 Config	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/base64.rs	/^pub struct Config {$/;"	s
 ConnAdapter	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^struct ConnAdapter<C: NetworkConnector + Send + Sync>(C);$/;"	s
@@ -69,20 +69,21 @@ Decodable	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.
 DecodeEnum	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    enum DecodeEnum {$/;"	g
 DecodeResult	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^pub type DecodeResult<T> = Result<T, DecoderError>;$/;"	T
 DecodeStruct	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    struct DecodeStruct {$/;"	s
-Decoder	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^pub struct Decoder {$/;"	s
+Decoder	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^pub struct Decoder {$/;"	s
 Decoder	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^pub struct Decoder {$/;"	s
 Decoder	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^pub trait Decoder {$/;"	t
 DecoderError	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^pub enum DecoderError {$/;"	g
 DecoderHelpers	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^pub trait DecoderHelpers: Decoder {$/;"	t
-DecoderItem	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^struct DecoderItem {$/;"	s
+DecoderItem	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^struct DecoderItem {$/;"	s
 DefaultConnector	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^pub type DefaultConnector = HttpConnector;$/;"	T
 DefaultConnector	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^pub type DefaultConnector = HttpsConnector<self::openssl::Openssl>;$/;"	T
 Directive	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/strict_transport_security.rs	/^enum Directive {$/;"	g
 DispositionParam	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/content_disposition.rs	/^pub enum DispositionParam {$/;"	g
 DispositionType	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/content_disposition.rs	/^pub enum DispositionType {$/;"	g
-Docopt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^pub struct Docopt {$/;"	s
+Docopt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^pub struct Docopt {$/;"	s
 EQUALS_CODE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/base64.rs	/^const EQUALS_CODE: u8 = 0xFE;$/;"	c
 EXPECT_CONTINUE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/expect.rs	/^const EXPECT_CONTINUE: UniCase<&'static str> = UniCase("100-continue");$/;"	c
+Emit	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/examples/rustc.rs	/^enum Emit { Asm, Ir, Bc, Obj, Link }$/;"	g
 Encodable	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^pub trait Encodable {$/;"	t
 EncodeResult	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^pub type EncodeResult<T> = Result<T, EncoderError>;$/;"	T
 EncodeSet	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/percent_encoding.rs	/^pub struct EncodeSet {$/;"	s
@@ -119,8 +120,8 @@ Err	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88
 Err	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/uri.rs	/^    type Err = Error;$/;"	T
 Err	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    type Err = ParserError;$/;"	T
 Err	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    type Err = ParseError;$/;"	T
-Error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    type Error = Error;$/;"	T
-Error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^pub enum Error {$/;"	g
+Error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    type Error = Error;$/;"	T
+Error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^pub enum Error {$/;"	g
 Error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/error.rs	/^pub enum Error {$/;"	g
 Error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    type Error = DecoderError;$/;"	T
 Error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    type Error = EncoderError;$/;"	T
@@ -203,9 +204,10 @@ MAX_BUFFER_SIZE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/g
 MAX_HEADERS	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^const MAX_HEADERS: usize = 100;$/;"	c
 MAX_INVALID_RESPONSE_BYTES	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^const MAX_INVALID_RESPONSE_BYTES: usize = 1024 * 128;$/;"	c
 MIME	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/base64.rs	/^pub static MIME: Config =$/;"	c
-MState	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^struct MState {$/;"	s
+MState	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^struct MState {$/;"	s
+MacParser	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^struct MacParser<'a, 'b:'a> {$/;"	s
 Mapping	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/idna.rs	/^enum Mapping {$/;"	g
-Matcher	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^struct Matcher<'a, 'b:'a> {$/;"	s
+Matcher	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^struct Matcher<'a, 'b:'a> {$/;"	s
 MessageState	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h2.rs	/^enum MessageState {$/;"	g
 Method	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/method.rs	/^pub enum Method {$/;"	g
 MockConnector	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/benches/client.rs	/^struct MockConnector;$/;"	s
@@ -225,8 +227,9 @@ Object	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com
 OpaqueOrigin	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^pub struct OpaqueOrigin(Uuid);$/;"	s
 Openssl	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^    pub struct Openssl {$/;"	s
 OptCell	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/internals/cell.rs	/^pub struct OptCell<T>(UnsafeCell<Option<T>>);$/;"	s
+OptLevel	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/examples/rustc.rs	/^enum OptLevel { Zero, One, Two, Three }$/;"	g
 OptionData	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    struct OptionData {$/;"	s
-Options	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^pub struct Options {$/;"	s
+Options	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^pub struct Options {$/;"	s
 Origin	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^pub enum Origin {$/;"	g
 Outer	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    struct Outer {$/;"	s
 Output	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    type Output = Json;$/;"	T
@@ -234,15 +237,17 @@ PASSWORD	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.c
 PASSWORD_ENCODE_SET	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/percent_encoding.rs	/^pub static PASSWORD_ENCODE_SET: EncodeSet = EncodeSet { map: &encode_sets::PASSWORD };$/;"	c
 PHRASE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/examples/hello.rs	/^static PHRASE: &'static [u8] = b"Hello World!";$/;"	c
 PRE_ALLOCATE_CAP	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/lib.rs	/^    const PRE_ALLOCATE_CAP: usize = 0x100000;$/;"	c
+PResult	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^type PResult<'a, T> = Result<T, DiagnosticBuilder<'a>>;$/;"	T
 ParseError	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/parser.rs	/^        pub enum ParseError {$/;"	g
 ParseResult	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/parser.rs	/^pub type ParseResult<T> = Result<T, ParseError>;$/;"	T
-Parser	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^pub struct Parser {$/;"	s
+Parsed	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^struct Parsed {$/;"	s
+Parser	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^pub struct Parser {$/;"	s
 Parser	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^pub struct Parser<T> {$/;"	s
 ParserError	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^pub enum ParserError {$/;"	g
 ParserState	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^enum ParserState {$/;"	g
-PatParser	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^struct PatParser<'a> {$/;"	s
+PatParser	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^struct PatParser<'a> {$/;"	s
 PathFormatter	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/format.rs	/^pub struct PathFormatter<'a, T:'a> {$/;"	s
-Pattern	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^enum Pattern {$/;"	g
+Pattern	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^enum Pattern {$/;"	g
 Pool	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/pool.rs	/^pub struct Pool<C: NetworkConnector> {$/;"	s
 PoolImpl	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/pool.rs	/^struct PoolImpl<S> {$/;"	s
 PooledStream	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/pool.rs	/^pub struct PooledStream<S> {$/;"	s
@@ -271,7 +276,7 @@ Reject	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com
 RelativeSchemeData	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^pub struct RelativeSchemeData {$/;"	s
 Request	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/request.rs	/^pub struct Request<W> {$/;"	s
 Request	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/request.rs	/^pub struct Request<'a, 'b: 'a> {$/;"	s
-Request	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/request.rs	/^pub struct Request{$/;"	s
+Request	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/request.rs	/^pub struct Request {$/;"	s
 RequestBuilder	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/mod.rs	/^pub struct RequestBuilder<'a> {$/;"	s
 RequestHead	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/message.rs	/^pub struct RequestHead {$/;"	s
 RequestUri	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/uri.rs	/^pub enum RequestUri {$/;"	g
@@ -319,10 +324,11 @@ Stream	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com
 Stream	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^    type Stream: NetworkStream + Send + Clone;$/;"	T
 Streaming	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^pub enum Streaming {}$/;"	g
 StrictTransportSecurity	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/strict_transport_security.rs	/^pub struct StrictTransportSecurity {$/;"	s
+StructInfo	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^struct StructInfo {$/;"	s
 Subject	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^    type Subject = (Method, RequestUri);$/;"	T
 Subject	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^    type Subject = RawStatus;$/;"	T
 Subject	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^    type Subject;$/;"	T
-SynonymMap	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/synonym.rs	/^pub struct SynonymMap<K, V> {$/;"	s
+SynonymMap	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/synonym.rs	/^pub struct SynonymMap<K, V> {$/;"	s
 TABLE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/idna_mapping.rs	/^static TABLE: &'static [Range] = &[$/;"	c
 T_MAX	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/punycode.rs	/^static T_MAX: u32 = 26;$/;"	c
 T_MIN	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/punycode.rs	/^static T_MIN: u32 = 1;$/;"	c
@@ -338,14 +344,14 @@ TryParse	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.c
 TryParseResult	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^type TryParseResult<T> = Result<httparse::Status<(Incoming<T>, usize)>, Error>;$/;"	T
 URLSAFE_CHARS	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/base64.rs	/^static URLSAFE_CHARS: &'static[u8] = b"ABCDEFGHIJKLMNOPQRSTUVWXYZ\\$/;"	c
 URL_SAFE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/base64.rs	/^pub static URL_SAFE: Config =$/;"	c
-USAGE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/cargo.rs	/^const USAGE: &'static str = "$/;"	c
-USAGE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/cp.rs	/^const USAGE: &'static str = "$/;"	c
-USAGE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/decode.rs	/^const USAGE: &'static str = "$/;"	c
-USAGE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/hashmap.rs	/^const USAGE: &'static str = "$/;"	c
-USAGE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/optional_command.rs	/^const USAGE: &'static str = "$/;"	c
-USAGE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/verbose_multiple.rs	/^const USAGE: &'static str = "$/;"	c
-USAGE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/test/mod.rs	/^    const USAGE: &'static str = "$/;"	c
-USAGE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/wordlist.rs	/^const USAGE: &'static str = "$/;"	c
+USAGE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/cargo.rs	/^const USAGE: &'static str = "$/;"	c
+USAGE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/cp.rs	/^const USAGE: &'static str = "$/;"	c
+USAGE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/decode.rs	/^const USAGE: &'static str = "$/;"	c
+USAGE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/hashmap.rs	/^const USAGE: &'static str = "$/;"	c
+USAGE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/optional_command.rs	/^const USAGE: &'static str = "$/;"	c
+USAGE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/verbose_multiple.rs	/^const USAGE: &'static str = "$/;"	c
+USAGE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/test/mod.rs	/^    const USAGE: &'static str = "$/;"	c
+USAGE	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/wordlist.rs	/^const USAGE: &'static str = "$/;"	c
 USAGE	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/main.rs	/^const USAGE: &'static str = "$/;"	c
 USERINFO	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/encode_sets.rs	/^pub static USERINFO: [&'static str; 256] = [$/;"	c
 USERINFO_ENCODE_SET	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/percent_encoding.rs	/^pub static USERINFO_ENCODE_SET: EncodeSet = EncodeSet { map: &encode_sets::USERINFO };$/;"	c
@@ -358,8 +364,7 @@ UrlUtils	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.c
 UrlUtilsWrapper	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/urlutils.rs	/^pub struct UrlUtilsWrapper<'a> {$/;"	s
 UserInfoFormatter	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/format.rs	/^pub struct UserInfoFormatter<'a> {$/;"	s
 Uts46Flags	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/idna.rs	/^pub struct Uts46Flags {$/;"	s
-VERSION	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/main.rs	/^const VERSION: &'static str = env!("CARGO_PKG_VERSION");$/;"	c
-Value	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^pub enum Value {$/;"	g
+Value	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^pub enum Value {$/;"	g
 Value	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^            type Value = Headers;$/;"	T
 Void	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/error.rs	/^pub enum Void {}$/;"	g
 Worker	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/mod.rs	/^struct Worker<H: Handler + 'static> {$/;"	s
@@ -374,26 +379,26 @@ accept	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com
 accept	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^    fn accept(&mut self) -> ::Result<Self::Stream>;$/;"	f
 accept	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/listener.rs	/^    pub fn accept<F>(self, work: F, threads: usize)$/;"	f
 adapt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/punycode.rs	/^fn adapt(mut delta: u32, num_points: u32, first_time: bool) -> u32 {$/;"	f
-add	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^        fn add(pat: &mut Pattern, all_atoms: &HashSet<Atom>, par: &Parser) {$/;"	f
-add_atom_ifnotexists	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn add_atom_ifnotexists(&mut self, arg: Argument, atom: &Atom) {$/;"	f
-add_default_values	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn add_default_values(&self, state: &mut MState) {$/;"	f
-add_desc	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn add_desc($/;"	f
-add_flag_values	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn add_flag_values(&self, state: &mut MState) {$/;"	f
-add_options_shortcut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn add_options_shortcut(&mut self, par: &Parser) {$/;"	f
+add	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^        fn add(pat: &mut Pattern, all_atoms: &HashSet<Atom>, par: &Parser) {$/;"	f
+add_atom_ifnotexists	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn add_atom_ifnotexists(&mut self, arg: Argument, atom: &Atom) {$/;"	f
+add_default_values	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn add_default_values(&self, state: &mut MState) {$/;"	f
+add_desc	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn add_desc($/;"	f
+add_flag_values	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn add_flag_values(&self, state: &mut MState) {$/;"	f
+add_options_shortcut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn add_options_shortcut(&mut self, par: &Parser) {$/;"	f
 add_stream	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/mock.rs	/^    pub fn add_stream(&mut self, stream: CloneableMockStream) {$/;"	f
-add_value	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn add_value(&mut self, opts: &Options,$/;"	f
-add_value	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn add_value(&self, state: &mut MState,$/;"	f
-all_atoms	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^        fn all_atoms(pat: &Pattern, set: &mut HashSet<Atom>) {$/;"	f
-all_atoms	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn all_atoms(&self) -> HashSet<Atom> {$/;"	f
-all_option_states	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn all_option_states(&self, base: &MState, states: &mut Vec<MState>,$/;"	f
+add_value	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn add_value(&mut self, opts: &Options,$/;"	f
+add_value	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn add_value(&self, state: &mut MState,$/;"	f
+all_atoms	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^        fn all_atoms(pat: &Pattern, set: &mut HashSet<Atom>) {$/;"	f
+all_atoms	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn all_atoms(&self) -> HashSet<Atom> {$/;"	f
+all_option_states	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn all_option_states(&self, base: &MState, states: &mut Vec<MState>,$/;"	f
 apply_to_cookie_jar	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/set_cookie.rs	/^    pub fn apply_to_cookie_jar(&self, jar: &mut CookieJar) {$/;"	f
-argv	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn argv<I, S>(mut self, argv: I) -> Docopt$/;"	f
+argv	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn argv<I, S>(mut self, argv: I) -> Docopt$/;"	f
 array	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^macro_rules! array {$/;"	d
 as_array	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn as_array<'a>(&'a self) -> Option<&'a Array> {$/;"	f
 as_array_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn as_array_mut<'a>(&'a mut self) -> Option<&'a mut Array> {$/;"	f
-as_bool	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn as_bool(&self) -> bool {$/;"	f
+as_bool	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn as_bool(&self) -> bool {$/;"	f
 as_boolean	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn as_boolean(&self) -> Option<bool> {$/;"	f
-as_count	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn as_count(&self) -> u64 {$/;"	f
+as_count	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn as_count(&self) -> u64 {$/;"	f
 as_f64	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn as_f64(&self) -> Option<f64> {$/;"	f
 as_i64	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn as_i64(&self) -> Option<i64> {$/;"	f
 as_json	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^pub fn as_json<T: Encodable>(t: &T) -> AsJson<T> {$/;"	f
@@ -407,17 +412,18 @@ as_raw_socket	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/git
 as_ref	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^    fn as_ref(&self) -> &str {$/;"	f
 as_ref	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^    pub fn as_ref(&self) -> &T { self.obj.as_ref().unwrap() }$/;"	f
 as_ref	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/method.rs	/^    fn as_ref(&self) -> &str {$/;"	f
-as_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn as_str(&self) -> &str {$/;"	f
+as_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn as_str(&self) -> &str {$/;"	f
 as_string	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn as_string<'a>(&'a self) -> Option<&'a str> {$/;"	f
 as_u64	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn as_u64(&self) -> Option<u64> {$/;"	f
-as_vec	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn as_vec(&self) -> Vec<&str> {$/;"	f
+as_vec	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn as_vec(&self) -> Vec<&str> {$/;"	f
 assert_client_preface	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h2.rs	/^    fn assert_client_preface(server_stream: &mut MockStream) {$/;"	f
 assert_display	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/uri.rs	/^    fn assert_display(expected_string: &str, request_uri: RequestUri) {$/;"	f
 assert_eq	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/wpt.rs	/^        macro_rules! assert_eq {$/;"	d
 assert_no_body	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/request.rs	/^    fn assert_no_body(s: &str) {$/;"	f
 assert_stream_equal	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn assert_stream_equal(src: &str,$/;"	f
-at	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn at(&self, i: usize) -> &str {$/;"	f
-atis	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn atis(&self, offset: usize, is: &str) -> bool {$/;"	f
+at	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn at(&self, i: usize) -> &str {$/;"	f
+atis	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn atis(&self, offset: usize, is: &str) -> bool {$/;"	f
+attribute	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^fn attribute<S, T>(cx: &ExtCtxt, name: S, items: Vec<T>) -> ast::Attribute$/;"	f
 base_url	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn base_url<'b>(&'b mut self, value: &'a Url) -> &'b mut UrlParser<'a> {$/;"	f
 bench_decode_hex_escape	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/benches/json.rs	/^fn bench_decode_hex_escape(b: &mut Bencher) {$/;"	f
 bench_format	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/mod.rs	/^            fn bench_format(b: &mut Bencher) {$/;"	f
@@ -459,7 +465,14 @@ bytes_multi	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/githu
 canonical_reason	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/status.rs	/^    pub fn canonical_reason(&self) -> Option<&'static str> {$/;"	f
 cap_capacity	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/lib.rs	/^fn cap_capacity<T>(given_len: usize) -> usize {$/;"	f
 capacity_rules	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^fn capacity_rules() {$/;"	f
-cause	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn cause(&self) -> Option<&StdError> {$/;"	f
+cargo_manifest_dir	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/main.rs	/^macro_rules! cargo_manifest_dir {$/;"	d
+cargo_pkg_name	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/main.rs	/^macro_rules! cargo_pkg_name {$/;"	d
+cargo_pkg_version	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/main.rs	/^macro_rules! cargo_pkg_version {$/;"	d
+cargo_pkg_version_major	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/main.rs	/^macro_rules! cargo_pkg_version_major {$/;"	d
+cargo_pkg_version_minor	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/main.rs	/^macro_rules! cargo_pkg_version_minor {$/;"	d
+cargo_pkg_version_patch	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/main.rs	/^macro_rules! cargo_pkg_version_patch {$/;"	d
+cargo_pkg_version_pre	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/main.rs	/^macro_rules! cargo_pkg_version_pre {$/;"	d
+cause	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn cause(&self) -> Option<&StdError> {$/;"	f
 cause	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/error.rs	/^    fn cause(&self) -> Option<&StdError> {$/;"	f
 cause	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h2.rs	/^    fn cause(&self) -> Option<&::std::error::Error> {$/;"	f
 cause	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn cause(&self) -> Option<&StdError> {$/;"	f
@@ -505,7 +518,7 @@ close_connection	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/
 close_connection	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/message.rs	/^    fn close_connection(&mut self) -> ::Result<()>;$/;"	f
 cmp	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/status.rs	/^    fn cmp(&self, other: &StatusCode) -> Ordering {$/;"	f
 cmp	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    fn cmp(&self, other: &Self) -> Ordering {$/;"	f
-command	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn command(&mut self) -> Result<Pattern, String> {$/;"	f
+command	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn command(&mut self) -> Result<Pattern, String> {$/;"	f
 connect	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/benches/client.rs	/^    fn connect(&self, _: &str, _: u16, _: &str) -> hyper::Result<MockStream> {$/;"	f
 connect	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/pool.rs	/^    fn connect(&self, host: &str, port: u16, scheme: &str) -> ::Result<PooledStream<S>> {$/;"	f
 connect	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^    fn connect(&self, host: &str, port: u16, scheme: &str)$/;"	f
@@ -519,15 +532,16 @@ connect	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.co
 connect	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^    fn connect(&self, host: &str, port: u16, scheme: &str) -> ::Result<Self::Stream>;$/;"	f
 construct	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/response.rs	/^    pub fn construct(version: version::HttpVersion,$/;"	f
 consume	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/buffer.rs	/^    fn consume(&mut self, amt: usize) {$/;"	f
-contains_key	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/synonym.rs	/^    pub fn contains_key(&self, k: &K) -> bool {$/;"	f
+contains_key	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/synonym.rs	/^    pub fn contains_key(&self, k: &K) -> bool {$/;"	f
 cookie_jar	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/cookie.rs	/^fn cookie_jar() {$/;"	f
 cookie_jar	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/set_cookie.rs	/^fn cookie_jar() {$/;"	f
 count_idents	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^macro_rules! count_idents {$/;"	d
-cur	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn cur(&self) -> &str { self.at(0) }$/;"	f
-cur	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn cur(&self) -> &str {$/;"	f
-decode	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/optional_command.rs	/^    fn decode<D: Decoder>(d: &mut D) -> Result<Command, D::Error> {$/;"	f
-decode	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn decode<D>(&self) -> Result<D, Error> where D: Decodable {$/;"	f
-decode	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn decode<T: Decodable>(self) -> Result<T, Error> {$/;"	f
+cur	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn cur(&self) -> &str { self.at(0) }$/;"	f
+cur	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn cur(&self) -> &str {$/;"	f
+decode	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/examples/rustc.rs	/^    fn decode<D: rustc_serialize::Decoder>(d: &mut D) -> Result<OptLevel, D::Error> {$/;"	f
+decode	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/optional_command.rs	/^    fn decode<D: Decoder>(d: &mut D) -> Result<Command, D::Error> {$/;"	f
+decode	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn decode<D>(&self) -> Result<D, Error> where D: Decodable {$/;"	f
+decode	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn decode<T: Decodable>(self) -> Result<T, Error> {$/;"	f
 decode	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/collection_impls.rs	/^    fn decode<D: Decoder>(d: &mut D) -> Result<BTreeMap<K, V>, D::Error> {$/;"	f
 decode	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/collection_impls.rs	/^    fn decode<D: Decoder>(d: &mut D) -> Result<BTreeSet<T>, D::Error> {$/;"	f
 decode	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/collection_impls.rs	/^    fn decode<D: Decoder>(d: &mut D) -> Result<HashMap<K, V>, D::Error> {$/;"	f
@@ -589,9 +603,9 @@ deref	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-
 deref_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/authorization.rs	/^    fn deref_mut(&mut self) -> &mut S {$/;"	f
 deref_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/mod.rs	/^            fn deref_mut(&mut self) -> &mut $to {$/;"	f
 deref_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^    fn deref_mut(&mut self) -> &mut Cow<'static, str> {$/;"	f
-derr	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^macro_rules! derr($/;"	d
-desanitize	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^        fn desanitize(name: &str) -> String {$/;"	f
-description	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn description(&self) -> &str {$/;"	f
+derr	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^macro_rules! derr($/;"	d
+desanitize	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^        fn desanitize(name: &str) -> String {$/;"	f
+description	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn description(&self) -> &str {$/;"	f
 description	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/error.rs	/^    fn description(&self) -> &str {$/;"	f
 description	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h2.rs	/^    fn description(&self) -> &str {$/;"	f
 description	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/base64.rs	/^    fn description(&self) -> &str {$/;"	f
@@ -605,11 +619,12 @@ deserialize	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/githu
 deserialize	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/mod.rs	/^    fn deserialize<D>(deserializer: &mut D) -> Result<RawStatus, D::Error> where D: Deserializer {$/;"	f
 deserialize	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/method.rs	/^    fn deserialize<D>(deserializer: &mut D) -> Result<Method, D::Error> where D: Deserializer {$/;"	f
 deserialize	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    fn deserialize<D>(deserializer: &mut D) -> Result<Url, D::Error> where D: serde::Deserializer {$/;"	f
+docopt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^                fn docopt() -> docopt::Docopt {$/;"	f
 domain	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn domain(&self) -> Option<&str> {$/;"	f
 domain_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn domain_mut(&mut self) -> Option<&mut String> {$/;"	f
 domain_to_ascii	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/idna.rs	/^pub fn domain_to_ascii(domain: &str) -> Result<String, Vec<Error>> {$/;"	f
 domain_to_unicode	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/idna.rs	/^pub fn domain_to_unicode(domain: &str) -> (String, Vec<Error>) {$/;"	f
-dotag	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^        fn dotag(p: &Pattern,$/;"	f
+dotag	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^        fn dotag(p: &Pattern,$/;"	f
 downcast	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/message.rs	/^    pub fn downcast<T: Any>(self: Box<HttpMessage>)$/;"	f
 downcast	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^    pub fn downcast<T: Any>(self: Box<NetworkStream + Send>)$/;"	f
 downcast	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^    pub fn downcast<T: Any>(self: Box<NetworkStream>)$/;"	f
@@ -731,12 +746,12 @@ eq	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88a
 eq	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/status.rs	/^    fn eq(&self, other: &StatusCode) -> bool {$/;"	f
 eq	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn eq(&self, other: &ParserError) -> bool {$/;"	f
 eq	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    fn eq(&self, other: &RelativeSchemeData) -> bool {$/;"	f
-err	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^macro_rules! err($/;"	d
-err_unknown_flag	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn err_unknown_flag(&self, atom: &Atom) -> Result<(), String> {$/;"	f
-err_with_full_doc	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn err_with_full_doc(&self, e: Error) -> Error {$/;"	f
-err_with_usage	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn err_with_usage(&self, e: Error) -> Error {$/;"	f
-errif_invalid_flag_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn errif_invalid_flag_arg(&self, atom: &Atom, arg: &str)$/;"	f
-error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn error(&mut self, err: &str) -> Error {$/;"	f
+err	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^macro_rules! err($/;"	d
+err_unknown_flag	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn err_unknown_flag(&self, atom: &Atom) -> Result<(), String> {$/;"	f
+err_with_full_doc	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn err_with_full_doc(&self, e: Error) -> Error {$/;"	f
+err_with_usage	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn err_with_usage(&self, e: Error) -> Error {$/;"	f
+errif_invalid_flag_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn errif_invalid_flag_arg(&self, atom: &Atom, arg: &str)$/;"	f
+error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn error(&mut self, err: &str) -> Error {$/;"	f
 error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn error(&mut self, err: &str) -> DecoderError {$/;"	f
 error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn error<E>(&self, reason: ErrorCode) -> Result<E, ParserError> {$/;"	f
 error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn error(&mut self, err: &str) -> Self::Error { () }$/;"	f
@@ -747,24 +762,25 @@ error_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.
 escape_char	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^fn escape_char(writer: &mut fmt::Write, v: char) -> EncodeResult<()> {$/;"	f
 escape_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^fn escape_str(wr: &mut fmt::Write, v: &str) -> EncodeResult<()> {$/;"	f
 excluding_subdomains	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/strict_transport_security.rs	/^    pub fn excluding_subdomains(max_age: u64) -> StrictTransportSecurity {$/;"	f
-exit	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn exit(&self) -> ! {$/;"	f
+exit	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn exit(&self) -> ! {$/;"	f
+expand	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^fn expand(cx: &mut ExtCtxt, span: codemap::Span, tts: &[ast::TokenTree])$/;"	f
 expect	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^macro_rules! expect {$/;"	d
 extend	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^    fn extend<I: IntoIterator<Item=HeaderView<'a>>>(&mut self, iter: I) {$/;"	f
-fatal	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn fatal(&self) -> bool {$/;"	f
+fatal	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn fatal(&self) -> bool {$/;"	f
 file_url_path_to_pathbuf	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^fn file_url_path_to_pathbuf(path: &[String]) -> Result<PathBuf, ()> {$/;"	f
 file_url_path_to_pathbuf_windows	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^fn file_url_path_to_pathbuf_windows(path: &[String]) -> Result<PathBuf, ()> {$/;"	f
 fill_buf	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/buffer.rs	/^    fn fill_buf(&mut self) -> io::Result<&[u8]> {$/;"	f
-fill_value	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn fill_value(&mut self, key: Atom, rep: bool, arg: Option<String>)$/;"	f
-find	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn find(&self, key: &str) -> Option<&Value> {$/;"	f
-find	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/synonym.rs	/^    pub fn find(&self, k: &K) -> Option<&V> {$/;"	f
+fill_value	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn fill_value(&mut self, key: Atom, rep: bool, arg: Option<String>)$/;"	f
+find	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn find(&self, key: &str) -> Option<&Value> {$/;"	f
+find	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/synonym.rs	/^    pub fn find(&self, k: &K) -> Option<&V> {$/;"	f
 find	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn find<'a>(&'a self, key: &str) -> Option<&'a Json>{$/;"	f
 find_char	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/idna.rs	/^fn find_char(codepoint: char) -> &'static Mapping {$/;"	f
-find_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/synonym.rs	/^    pub fn find_mut<'a>(&'a mut self, k: &K) -> Option<&'a mut V> {$/;"	f
+find_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/synonym.rs	/^    pub fn find_mut<'a>(&'a mut self, k: &K) -> Option<&'a mut V> {$/;"	f
 find_path	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn find_path<'a>(&'a self, keys: &[&str]) -> Option<&'a Json>{$/;"	f
 finish_sequence	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/host.rs	/^    macro_rules! finish_sequence($/;"	d
 fixed_length_array	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn fixed_length_array() {$/;"	f
-flag_long	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn flag_long(&mut self) -> Result<Pattern, String> {$/;"	f
-flag_short	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn flag_short(&mut self) -> Result<Vec<Pattern>, String> {$/;"	f
+flag_long	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn flag_long(&mut self) -> Result<Pattern, String> {$/;"	f
+flag_short	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn flag_short(&mut self) -> Result<Vec<Pattern>, String> {$/;"	f
 flush	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/benches/client.rs	/^    fn flush(&mut self) -> io::Result<()> {$/;"	f
 flush	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/pool.rs	/^    fn flush(&mut self) -> io::Result<()> {$/;"	f
 flush	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/request.rs	/^    fn flush(&mut self) -> io::Result<()> {$/;"	f
@@ -774,10 +790,10 @@ flush	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-
 flush	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^    fn flush(&mut self) -> io::Result<()> {$/;"	f
 flush	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/response.rs	/^    fn flush(&mut self) -> io::Result<()> {$/;"	f
 flush_outgoing	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^    pub fn flush_outgoing(&mut self) -> ::Result<()> {$/;"	f
-fmt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {$/;"	f
-fmt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn fmt(&self, f: &mut fmt::Formatter) -> Result<(), fmt::Error> {$/;"	f
-fmt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {$/;"	f
-fmt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/synonym.rs	/^    fn fmt(&self, f: &mut ::std::fmt::Formatter) -> ::std::fmt::Result {$/;"	f
+fmt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {$/;"	f
+fmt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn fmt(&self, f: &mut fmt::Formatter) -> Result<(), fmt::Error> {$/;"	f
+fmt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {$/;"	f
+fmt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/synonym.rs	/^    fn fmt(&self, f: &mut ::std::fmt::Formatter) -> ::std::fmt::Result {$/;"	f
 fmt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/mod.rs	/^    fn fmt(&self, fmt: &mut fmt::Formatter) -> fmt::Result {$/;"	f
 fmt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/error.rs	/^    fn fmt(&self, _: &mut fmt::Formatter) -> fmt::Result {$/;"	f
 fmt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/error.rs	/^    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {$/;"	f
@@ -877,7 +893,7 @@ from_file_path	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/gi
 from_hex	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/hex.rs	/^    fn from_hex(&self) -> Result<Vec<u8>, FromHexError> {$/;"	f
 from_hex	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/hex.rs	/^    fn from_hex(&self) -> Result<Vec<u8>, FromHexError>;$/;"	f
 from_hex	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/percent_encoding.rs	/^pub fn from_hex(byte: u8) -> Option<u8> {$/;"	f
-from_iter	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/synonym.rs	/^    fn from_iter<T: IntoIterator<Item=(K, V)>>(iter: T) -> SynonymMap<K, V> {$/;"	f
+from_iter	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/synonym.rs	/^    fn from_iter<T: IntoIterator<Item=(K, V)>>(iter: T) -> SynonymMap<K, V> {$/;"	f
 from_iter	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^    fn from_iter<I: IntoIterator<Item=HeaderView<'a>>>(iter: I) -> Headers {$/;"	f
 from_one_raw_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/parsing.rs	/^pub fn from_one_raw_str<T: str::FromStr>(raw: &[Vec<u8>]) -> ::Result<T> {$/;"	f
 from_opt_encoding	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/encoding.rs	/^    pub fn from_opt_encoding(encoding: Option<EncodingRef>) -> EncodingOverride {$/;"	f
@@ -913,16 +929,16 @@ from_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.c
 from_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    fn from_str(url: &str) -> ParseResult<Url> {$/;"	f
 from_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/tests.rs	/^fn from_str() {$/;"	f
 from_u16	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/status.rs	/^    pub fn from_u16(n: u16) -> StatusCode {$/;"	f
-get	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/synonym.rs	/^    pub fn get<'a>(&'a self, k: &K) -> &'a V {$/;"	f
+get	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/synonym.rs	/^    pub fn get<'a>(&'a self, k: &K) -> &'a V {$/;"	f
 get	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/mod.rs	/^    pub fn get<U: IntoUrl>(&self, url: U) -> RequestBuilder {$/;"	f
 get	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/internals/cell.rs	/^    pub fn get(&self, key: TypeId) -> Option<&V> {$/;"	f
 get	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^    pub fn get<H: Header + HeaderFormat>(&self) -> Option<&H> {$/;"	f
 get	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn get<'l>(&'l self, idx: usize) -> StackElement<'l> {$/;"	f
-get_args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/test/mod.rs	/^fn get_args(doc: &str, argv: &[&'static str]) -> ArgvMap {$/;"	f
-get_argv	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn get_argv() -> Vec<String> {$/;"	f
-get_bool	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn get_bool(&self, key: &str) -> bool {$/;"	f
+get_args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/test/mod.rs	/^fn get_args(doc: &str, argv: &[&'static str]) -> ArgvMap {$/;"	f
+get_argv	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn get_argv() -> Vec<String> {$/;"	f
+get_bool	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn get_bool(&self, key: &str) -> bool {$/;"	f
 get_buf	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/buffer.rs	/^    pub fn get_buf(&self) -> &[u8] {$/;"	f
-get_count	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn get_count(&self, key: &str) -> u64 {$/;"	f
+get_count	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn get_count(&self, key: &str) -> u64 {$/;"	f
 get_host_and_port	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/mod.rs	/^fn get_host_and_port(url: &Url) -> ::Result<(String, u16)> {$/;"	f
 get_identity_key	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    fn get_identity_key(&self) -> (&String, &Option<String>, &Host, Option<u16>, Option<u16>, &Vec<String>) {$/;"	f
 get_incoming	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^    fn get_incoming(&mut self) -> ::Result<ResponseHead> {$/;"	f
@@ -941,11 +957,11 @@ get_ref	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.co
 get_ref	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^    pub fn get_ref(&self) -> &R {$/;"	f
 get_ref	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^    pub fn get_ref(&self) -> &W {$/;"	f
 get_scheme_type	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    fn get_scheme_type(&self, scheme: &str) -> SchemeType {$/;"	f
-get_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn get_str(&self, key: &str) -> &str {$/;"	f
+get_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn get_str(&self, key: &str) -> &str {$/;"	f
 get_string	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/punycode.rs	/^fn get_string<'a>(map: &'a Object, key: &str) -> &'a str {$/;"	f
-get_suggestion	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/test/suggestions.rs	/^fn get_suggestion(doc: &str, argv: &[&'static str]) -> Error {$/;"	f
-get_vec	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn get_vec(&self, key: &str) -> Vec<&str> {$/;"	f
-group	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn group(&mut self)$/;"	f
+get_suggestion	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/test/suggestions.rs	/^fn get_suggestion(doc: &str, argv: &[&'static str]) -> Error {$/;"	f
+get_vec	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn get_vec(&self, key: &str) -> Vec<&str> {$/;"	f
+group	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn group(&mut self)$/;"	f
 grow_zerofill	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/buffer.rs	/^unsafe fn grow_zerofill(buf: &mut Vec<u8>, additional: usize) {$/;"	f
 handle	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/mod.rs	/^            fn handle<'a, 'k>(&'a self, _: Request<'a, 'k>, res: Response<'a, Fresh>) {$/;"	f
 handle	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/mod.rs	/^        fn handle(_: Request, res: Response<Fresh>) {$/;"	f
@@ -957,12 +973,12 @@ handle_connection	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src
 handle_expect	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/mod.rs	/^    fn handle_expect<W: Write>(&self, req: &Request, wrt: &mut W) -> bool {$/;"	f
 handle_threads	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/mod.rs	/^    pub fn handle_threads<H: Handler + 'static>(self, handler: H,$/;"	f
 has	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^    pub fn has<H: Header + HeaderFormat>(&self) -> bool {$/;"	f
-has_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn has_arg(&self) -> bool {$/;"	f
-has_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn has_arg(&self, atom: &Atom) -> bool {$/;"	f
+has_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn has_arg(&self) -> bool {$/;"	f
+has_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn has_arg(&self, atom: &Atom) -> bool {$/;"	f
 has_body	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^    fn has_body(&self) -> bool {$/;"	f
 has_body	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h2.rs	/^    fn has_body(&self) -> bool {$/;"	f
 has_body	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/message.rs	/^    fn has_body(&self) -> bool;$/;"	f
-has_repeat	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn has_repeat(&self, atom: &Atom) -> bool {$/;"	f
+has_repeat	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn has_repeat(&self, atom: &Atom) -> bool {$/;"	f
 hash	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    fn hash<H: Hasher>(&self, state: &mut H) {$/;"	f
 head	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/mod.rs	/^    pub fn head<U: IntoUrl>(&self, url: U) -> RequestBuilder {$/;"	f
 header	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/mod.rs	/^    pub fn header<H: Header + HeaderFormat>(mut self, header: H) -> RequestBuilder<'a> {$/;"	f
@@ -994,7 +1010,7 @@ headers	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.co
 headers_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/request.rs	/^    pub fn headers_mut(&mut self) -> &mut Headers { &mut self.headers }$/;"	f
 headers_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/response.rs	/^    pub fn headers_mut(&mut self) -> &mut header::Headers { self.headers }$/;"	f
 hello	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/examples/hello.rs	/^fn hello(_: Request, res: Response) {$/;"	f
-help	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn help(mut self, yes: bool) -> Docopt {$/;"	f
+help	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn help(mut self, yes: bool) -> Docopt {$/;"	f
 host	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn host(&self) -> Option<&Host> {$/;"	f
 host	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/format.rs	/^fn host() {$/;"	f
 host	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/tests.rs	/^fn host() {$/;"	f
@@ -1003,6 +1019,7 @@ html	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-8
 http	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/mod.rs	/^    pub fn http<To: ToSocketAddrs>(addr: To) -> ::Result<Server<HttpListener>> {$/;"	f
 https	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/mod.rs	/^    pub fn https<A: ToSocketAddrs>(addr: A, ssl: S) -> ::Result<Server<HttpsListener<S>>> {$/;"	f
 idempotent	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/method.rs	/^    pub fn idempotent(&self) -> bool {$/;"	f
+ident	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^fn ident(s: &str) -> ast::Ident {$/;"	f
 including_subdomains	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/strict_transport_security.rs	/^    pub fn including_subdomains(max_age: u64) -> StrictTransportSecurity {$/;"	f
 incoming	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^    fn incoming(&mut self) -> NetworkConnections<Self> {$/;"	f
 indent	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn indent(mut self, indent: u32) -> AsPrettyJson<'a, T> {$/;"	f
@@ -1011,10 +1028,11 @@ index	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-
 index	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn index<'a>(&'a self, idx: usize) -> &'a Json {$/;"	f
 index_of	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^    fn index_of(slice: &[u8], byte: u8) -> Option<usize> {$/;"	f
 inner	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^        fn inner<W: Write>(w: &mut W) -> io::Result<()> {$/;"	f
-insert	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/synonym.rs	/^    pub fn insert(&mut self, k: K, v: V) -> bool {$/;"	f
+insert	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/synonym.rs	/^    pub fn insert(&mut self, k: K, v: V) -> bool {$/;"	f
 insert	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/internals/cell.rs	/^    pub unsafe fn insert(&self, key: TypeId, val: Box<V>) {$/;"	f
-insert_synonym	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/synonym.rs	/^    pub fn insert_synonym(&mut self, from: K, to: K) -> bool {$/;"	f
+insert_synonym	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/synonym.rs	/^    pub fn insert_synonym(&mut self, from: K, to: K) -> bool {$/;"	f
 inspect	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/lib.rs	/^macro_rules! inspect($/;"	d
+intern	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^fn intern(s: &str) -> token::InternedString {$/;"	f
 into	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/mod.rs	/^    fn into(self) -> Body<'a> {$/;"	f
 into_inner	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/buffer.rs	/^    pub fn into_inner(self) -> R { self.inner }$/;"	f
 into_inner	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^    pub fn into_inner(self) -> Box<NetworkStream + Send> {$/;"	f
@@ -1026,26 +1044,26 @@ into_url	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.c
 is	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^    pub fn is<H: Header>(&self) -> bool {$/;"	f
 is	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/message.rs	/^    pub fn is<T: Any>(&self) -> bool {$/;"	f
 is	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^    pub fn is<T: Any>(&self) -> bool {$/;"	f
-is_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn is_arg(s: &str) -> bool { regex!(r"^(\\p{Lu}+|<[^>]+>)$").is_match(s) }$/;"	f
+is_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn is_arg(s: &str) -> bool { regex!(r"^(\\p{Lu}+|<[^>]+>)$").is_match(s) }$/;"	f
 is_array	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn is_array<'a>(&'a self) -> bool {$/;"	f
 is_ascii_hex_digit	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/parser.rs	/^fn is_ascii_hex_digit(byte: u8) -> bool {$/;"	f
 is_boolean	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn is_boolean(&self) -> bool {$/;"	f
 is_client_error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/status.rs	/^    pub fn is_client_error(&self) -> bool {$/;"	f
-is_cmd	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn is_cmd(s: &str) -> bool { regex!(r"^(-|--|[^-]\\S*)$").is_match(s) }$/;"	f
+is_cmd	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn is_cmd(s: &str) -> bool { regex!(r"^(-|--|[^-]\\S*)$").is_match(s) }$/;"	f
 is_empty	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn is_empty(&self) -> bool { self.stack.is_empty() }$/;"	f
-is_eof	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn is_eof(&self) -> bool {$/;"	f
+is_eof	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn is_eof(&self) -> bool {$/;"	f
 is_equal_to	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn is_equal_to(&self, rhs: &[StackElement]) -> bool {$/;"	f
 is_f64	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn is_f64(&self) -> bool {$/;"	f
 is_i64	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn is_i64(&self) -> bool {$/;"	f
 is_informational	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/status.rs	/^    pub fn is_informational(&self) -> bool {$/;"	f
-is_long	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn is_long(s: &str) -> bool { regex!(r"^--\\S+(?:<[^>]+>)?$").is_match(s) }$/;"	f
-is_long_argv	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn is_long_argv(s: &str) -> bool { regex!(r"^--\\S+(=.+)?$").is_match(s) }$/;"	f
+is_long	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn is_long(s: &str) -> bool { regex!(r"^--\\S+(?:<[^>]+>)?$").is_match(s) }$/;"	f
+is_long_argv	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn is_long_argv(s: &str) -> bool { regex!(r"^--\\S+(=.+)?$").is_match(s) }$/;"	f
 is_null	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn is_null(&self) -> bool {$/;"	f
 is_number	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn is_number(&self) -> bool {$/;"	f
 is_object	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn is_object<'a>(&'a self) -> bool {$/;"	f
 is_redirection	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/status.rs	/^    pub fn is_redirection(&self) -> bool {$/;"	f
 is_server_error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/status.rs	/^    pub fn is_server_error(&self) -> bool {$/;"	f
-is_short	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn is_short(s: &str) -> bool { regex!(r"^-[^-]+$").is_match(s) }$/;"	f
+is_short	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn is_short(s: &str) -> bool { regex!(r"^-[^-]+$").is_match(s) }$/;"	f
 is_strange_status	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/status.rs	/^    pub fn is_strange_status(&self) -> bool {$/;"	f
 is_string	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn is_string<'a>(&'a self) -> bool {$/;"	f
 is_success	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/status.rs	/^    pub fn is_success(&self) -> bool {$/;"	f
@@ -1053,7 +1071,8 @@ is_u64	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com
 is_url_code_point	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/parser.rs	/^fn is_url_code_point(c: char) -> bool {$/;"	f
 is_utf8	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/encoding.rs	/^    pub fn is_utf8(&self) -> bool {$/;"	f
 issue_124	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/tests.rs	/^fn issue_124() {$/;"	f
-iter	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/synonym.rs	/^    pub fn iter(&self) -> Iter<K, V> {$/;"	f
+items	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^    fn items(&self, cx: &ExtCtxt) -> Box<MacResult+'static> {$/;"	f
+iter	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/synonym.rs	/^    pub fn iter(&self) -> Iter<K, V> {$/;"	f
 iter	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^    pub fn iter(&self) -> HeadersItems {$/;"	f
 join	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn join(&self, input: &str) -> ParseResult<Url> {$/;"	f
 jpeg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/content_type.rs	/^    pub fn jpeg() -> ContentType {$/;"	f
@@ -1062,15 +1081,17 @@ keep_alive	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github
 keep_alive	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/mod.rs	/^    pub fn keep_alive(&mut self, timeout: Option<Duration>) {$/;"	f
 keep_alive_loop	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/mod.rs	/^    fn keep_alive_loop<W: Write>(&self, mut rdr: &mut BufReader<&mut NetworkStream>,$/;"	f
 key	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/pool.rs	/^fn key<T: Into<Scheme>>(host: &str, port: u16, scheme: T) -> Key {$/;"	f
-key_to_struct_field	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn key_to_struct_field(name: &str) -> String {$/;"	f
-keys	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/synonym.rs	/^    pub fn keys(&self) -> Keys<K, V> {$/;"	f
+key_to_struct_field	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn key_to_struct_field(name: &str) -> String {$/;"	f
+keys	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/synonym.rs	/^    pub fn keys(&self) -> Keys<K, V> {$/;"	f
 last_event	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn last_event(src: &str) -> JsonEvent {$/;"	f
 last_is_index	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn last_is_index(&self) -> bool {$/;"	f
-len	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn len(&self) -> usize {$/;"	f
-len	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/synonym.rs	/^    pub fn len(&self) -> usize {$/;"	f
+len	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn len(&self) -> usize {$/;"	f
+len	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/synonym.rs	/^    pub fn len(&self) -> usize {$/;"	f
 len	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^    pub fn len(&self) -> usize {$/;"	f
 len	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn len(&self) -> usize { self.stack.len() }$/;"	f
 lines	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/response.rs	/^    macro_rules! lines {$/;"	d
+lit_is_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^        fn lit_is_str(lit: &ast::Lit) -> bool {$/;"	f
+lit_to_string	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^        fn lit_to_string(lit: &ast::Lit) -> String {$/;"	f
 local_addr	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^    fn local_addr(&mut self) -> io::Result<SocketAddr> {$/;"	f
 local_addr	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^    fn local_addr(&mut self) -> io::Result<SocketAddr>;$/;"	f
 longest_zero_sequence	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/host.rs	/^fn longest_zero_sequence(pieces: &[u16; 8]) -> (isize, isize) {$/;"	f
@@ -1082,13 +1103,17 @@ lossy_percent_decode_query	/Users/kaiyin/.multirust/toolchains/nightly/cargo/reg
 lossy_percent_decode_username	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn lossy_percent_decode_username(&self) -> Option<String> {$/;"	f
 lossy_percent_decode_username	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn lossy_percent_decode_username(&self) -> String {$/;"	f
 lossy_utf8_percent_decode	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/percent_encoding.rs	/^pub fn lossy_utf8_percent_decode(input: &[u8]) -> String {$/;"	f
-main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/cargo.rs	/^fn main() {$/;"	f
-main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/cp.rs	/^fn main() {$/;"	f
-main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/decode.rs	/^fn main() {$/;"	f
-main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/hashmap.rs	/^fn main() {$/;"	f
-main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/optional_command.rs	/^fn main() {$/;"	f
-main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/examples/verbose_multiple.rs	/^fn main() {$/;"	f
-main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/wordlist.rs	/^fn main() {$/;"	f
+main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/examples/add.rs	/^fn main() {$/;"	f
+main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/examples/cp.rs	/^fn main() {$/;"	f
+main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/examples/macro.rs	/^fn main() {$/;"	f
+main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/examples/rustc.rs	/^fn main() {$/;"	f
+main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/cargo.rs	/^fn main() {$/;"	f
+main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/cp.rs	/^fn main() {$/;"	f
+main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/decode.rs	/^fn main() {$/;"	f
+main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/hashmap.rs	/^fn main() {$/;"	f
+main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/optional_command.rs	/^fn main() {$/;"	f
+main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/examples/verbose_multiple.rs	/^fn main() {$/;"	f
+main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/wordlist.rs	/^fn main() {$/;"	f
 main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/examples/client.rs	/^fn main() {$/;"	f
 main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/examples/client_http2.rs	/^fn main() {$/;"	f
 main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/examples/headers.rs	/^fn main() {$/;"	f
@@ -1098,27 +1123,30 @@ main	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-8
 main	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/main.rs	/^fn main() {$/;"	f
 make_test	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/wpt.rs	/^fn make_test(entry: Entry) -> test::TestDescAndFn {$/;"	f
 map_char	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/idna.rs	/^fn map_char(codepoint: char, flags: Uts46Flags, output: &mut String, errors: &mut Vec<Error>) {$/;"	f
-map_from_alist	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/test/mod.rs	/^fn map_from_alist(alist: Vec<(&'static str, Value)>)$/;"	f
+map_from_alist	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/test/mod.rs	/^fn map_from_alist(alist: Vec<(&'static str, Value)>)$/;"	f
 map_in_place	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^    pub fn map_in_place<F>(&mut self, f: F) where F: FnOnce(T) -> T {$/;"	f
-match_cmd_or_posarg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn match_cmd_or_posarg(&mut self, spec: &Atom, argv: &ArgvToken)$/;"	f
-matches	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn matches(argv: &'a Argv, pat: &Pattern)$/;"	f
-matches	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    pub fn matches(&self, argv: &Argv) -> Option<SynonymMap<String, Value>> {$/;"	f
-maybe_repeat	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn maybe_repeat(&mut self, pat: Pattern) -> Pattern {$/;"	f
+match_cmd_or_posarg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn match_cmd_or_posarg(&mut self, spec: &Atom, argv: &ArgvToken)$/;"	f
+matches	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn matches(argv: &'a Argv, pat: &Pattern)$/;"	f
+matches	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    pub fn matches(&self, argv: &Argv) -> Option<SynonymMap<String, Value>> {$/;"	f
+maybe_repeat	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn maybe_repeat(&mut self, pat: Pattern) -> Pattern {$/;"	f
 maybe_reserve	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/buffer.rs	/^    fn maybe_reserve(&mut self) {$/;"	f
+meta_item	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^fn meta_item(cx: &ExtCtxt, s: &str) -> P<ast::MetaItem> {$/;"	f
 method	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/request.rs	/^    pub fn method(&self) -> Method { self.method.clone() }$/;"	f
 mk_object	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn mk_object(items: &[(string::String, Json)]) -> Json {$/;"	f
+mk_struct_field	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^    fn mk_struct_field(&self, name: &str, ty: P<ast::Ty>) -> ast::StructField {$/;"	f
 mock_connector	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/mock.rs	/^macro_rules! mock_connector ($/;"	d
 mocked	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/pool.rs	/^    macro_rules! mocked {$/;"	d
 mut_raw	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/internals/item.rs	/^    pub fn mut_raw(&mut self) -> &mut Vec<Vec<u8>> {$/;"	f
 name	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^    pub fn name(&self) -> &'a str {$/;"	f
 name	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/shared/charset.rs	/^    fn name(&self) -> &str {$/;"	f
-new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn new<S>(usage: S) -> Result<Docopt, Error>$/;"	f
-new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn new(dopt: &'a Parser, argv: Vec<String>, options_first: bool)$/;"	f
-new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn new(dopt: &'a mut Parser, pat: &str) -> PatParser<'a> {$/;"	f
-new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn new(rep: bool, arg: Argument) -> Options {$/;"	f
-new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    pub fn new(doc: &str) -> Result<Parser, String> {$/;"	f
-new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    pub fn new(s: &str) -> Atom {$/;"	f
-new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/synonym.rs	/^    pub fn new() -> SynonymMap<K, V> {$/;"	f
+new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^    fn new(cx: &'a mut ExtCtxt<'b>, tts: &[ast::TokenTree]) -> MacParser<'a, 'b> {$/;"	f
+new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn new<S>(usage: S) -> Result<Docopt, Error>$/;"	f
+new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn new(dopt: &'a Parser, argv: Vec<String>, options_first: bool)$/;"	f
+new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn new(dopt: &'a mut Parser, pat: &str) -> PatParser<'a> {$/;"	f
+new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn new(rep: bool, arg: Argument) -> Options {$/;"	f
+new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    pub fn new(doc: &str) -> Result<Parser, String> {$/;"	f
+new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    pub fn new(s: &str) -> Atom {$/;"	f
+new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/synonym.rs	/^    pub fn new() -> SynonymMap<K, V> {$/;"	f
 new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/benches/client.rs	/^    fn new() -> MockStream {$/;"	f
 new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/buffer.rs	/^    pub fn new(rdr: R) -> BufReader<R> {$/;"	f
 new	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/mod.rs	/^    pub fn new() -> Client {$/;"	f
@@ -1165,15 +1193,15 @@ new_protocol	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/gith
 new_raw	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/internals/item.rs	/^    pub fn new_raw(data: Vec<Vec<u8>>) -> Item {$/;"	f
 new_response_stream	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/mock.rs	/^    pub fn new_response_stream(&mut self, status: &[u8], headers: &Headers, body: Option<Vec<u8>>)$/;"	f
 new_typed	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/internals/item.rs	/^    pub fn new_typed(ty: Box<HeaderFormat + Send + Sync>) -> Item {$/;"	f
-next	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn next(&mut self) {$/;"	f
+next	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn next(&mut self) {$/;"	f
 next	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^    fn next(&mut self) -> Option<HeaderView<'a>> {$/;"	f
 next	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^    fn next(&mut self) -> Option<::Result<N::Stream>> {$/;"	f
 next	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn next(&mut self) -> Option<JsonEvent> {$/;"	f
 next	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/parser.rs	/^    fn next(&mut self) -> Option<(usize, char, usize)> {$/;"	f
-next_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn next_arg(&mut self, atom: &Atom) -> Result<&str, String> {$/;"	f
+next_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn next_arg(&mut self, atom: &Atom) -> Result<&str, String> {$/;"	f
 next_char	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn next_char(&mut self) -> Option<char> {$/;"	f
-next_flag_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn next_flag_arg(&mut self, atom: &Atom) -> Result<(), String> {$/;"	f
-next_noeof	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn next_noeof(&mut self, expected: &str) -> Result<(), String> {$/;"	f
+next_flag_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn next_flag_arg(&mut self, atom: &Atom) -> Result<(), String> {$/;"	f
+next_noeof	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn next_noeof(&mut self, expected: &str) -> Result<(), String> {$/;"	f
 non_relative_scheme_data	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn non_relative_scheme_data(&self) -> Option<&str> {$/;"	f
 non_relative_scheme_data_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn non_relative_scheme_data_mut(&mut self) -> Option<&mut String> {$/;"	f
 on_connection_end	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/mod.rs	/^    fn on_connection_end(&self) { }$/;"	f
@@ -1181,13 +1209,14 @@ on_connection_start	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/s
 one	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/internals/cell.rs	/^    pub unsafe fn one(&self) -> &V {$/;"	f
 one_test	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/punycode.rs	/^fn one_test(description: &str, decoded: &str, encoded: &str) {$/;"	f
 opt_prepend	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/wpt.rs	/^        fn opt_prepend(prefix: &str, opt_s: Option<String>) -> Option<String> {$/;"	f
-options_atoms	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn options_atoms(&self) -> Vec<Atom> {$/;"	f
-options_first	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn options_first(mut self, yes: bool) -> Docopt {$/;"	f
+options_atoms	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn options_atoms(&self) -> Vec<Atom> {$/;"	f
+options_first	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn options_first(mut self, yes: bool) -> Docopt {$/;"	f
 origin	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn origin(&self) -> Origin {$/;"	f
-parse	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn parse(&self) -> Result<ArgvMap, Error> {$/;"	f
-parse	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn parse(&mut self) -> Result<(), String> {$/;"	f
-parse	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn parse(&mut self) -> Result<Pattern, String> {$/;"	f
-parse	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn parse(&mut self, doc: &str) -> Result<(), String> {$/;"	f
+parse	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^    fn parse(&mut self) -> PResult<'b, Parsed> {$/;"	f
+parse	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn parse(&self) -> Result<ArgvMap, Error> {$/;"	f
+parse	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn parse(&mut self) -> Result<(), String> {$/;"	f
+parse	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn parse(&mut self) -> Result<Pattern, String> {$/;"	f
+parse	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn parse(&mut self, doc: &str) -> Result<(), String> {$/;"	f
 parse	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/internals/item.rs	/^fn parse<H: Header + HeaderFormat>(raw: &Vec<Vec<u8>>) ->$/;"	f
 parse	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^fn parse<R: Read, T: TryParse<Subject=I>, I>(rdr: &mut BufReader<R>) -> ::Result<Incoming<I>> {$/;"	f
 parse	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn parse(&mut self) -> JsonEvent {$/;"	f
@@ -1196,12 +1225,12 @@ parse	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-
 parse	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn parse(&self, input: &str) -> ParseResult<Url> {$/;"	f
 parse	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn parse(input: &str) -> ParseResult<Url> {$/;"	f
 parse_absolute_url	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/parser.rs	/^fn parse_absolute_url<'a>(scheme: String, scheme_type: SchemeType,$/;"	f
-parse_argv	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    pub fn parse_argv(&self, argv: Vec<String>, options_first: bool)$/;"	f
+parse_argv	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    pub fn parse_argv(&self, argv: Vec<String>, options_first: bool)$/;"	f
 parse_array	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn parse_array(&mut self, first: bool) -> JsonEvent {$/;"	f
 parse_array_comma_or_end	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn parse_array_comma_or_end(&mut self) -> Option<JsonEvent> {$/;"	f
 parse_decimal	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn parse_decimal(&mut self, mut res: f64) -> Result<f64, ParserError> {$/;"	f
-parse_default	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn parse_default(&mut self, desc: &str) -> Result<(), String> {$/;"	f
-parse_desc	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn parse_desc(&mut self, full_desc: &str) -> Result<(), String> {$/;"	f
+parse_default	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn parse_default(&mut self, desc: &str) -> Result<(), String> {$/;"	f
+parse_desc	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn parse_desc(&mut self, full_desc: &str) -> Result<(), String> {$/;"	f
 parse_error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    fn parse_error(&self, error: ParseError) -> ParseResult<()> {$/;"	f
 parse_exponent	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn parse_exponent(&mut self, mut res: f64) -> Result<f64, ParserError> {$/;"	f
 parse_extended_value	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/parsing.rs	/^pub fn parse_extended_value(val: &str) -> ::Result<ExtendedValue> {$/;"	f
@@ -1235,8 +1264,8 @@ parse_internal	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/gi
 parse_ipv4addr	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/host.rs	/^fn parse_ipv4addr(input: &str) -> ParseResult<Option<Ipv4Addr>> {$/;"	f
 parse_ipv4number	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/host.rs	/^fn parse_ipv4number(mut input: &str) -> ParseResult<u32> {$/;"	f
 parse_ipv6addr	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/host.rs	/^fn parse_ipv6addr(input: &str) -> ParseResult<Ipv6Addr> {$/;"	f
-parse_long_equal	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^fn parse_long_equal(flag: &str) -> Result<(Atom, Argument), String> {$/;"	f
-parse_long_equal_argv	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^fn parse_long_equal_argv(flag: &str) -> (Atom, Option<String>) {$/;"	f
+parse_long_equal	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^fn parse_long_equal(flag: &str) -> Result<(Atom, Argument), String> {$/;"	f
+parse_long_equal_argv	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^fn parse_long_equal_argv(flag: &str) -> (Atom, Option<String>) {$/;"	f
 parse_number	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn parse_number(&mut self) -> JsonEvent {$/;"	f
 parse_object	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn parse_object(&mut self, first: bool) -> JsonEvent {$/;"	f
 parse_object_end	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn parse_object_end(&mut self) -> JsonEvent {$/;"	f
@@ -1257,30 +1286,34 @@ parse_scheme	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/gith
 parse_scheme_data	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/parser.rs	/^fn parse_scheme_data<'a>(input: &'a str, parser: &UrlParser)$/;"	f
 parse_standalone_path	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/parser.rs	/^pub fn parse_standalone_path(input: &str, parser: &UrlParser)$/;"	f
 parse_start	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn parse_start(&mut self) -> JsonEvent {$/;"	f
+parse_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^    fn parse_str(&mut self) -> PResult<'b, String> {$/;"	f
 parse_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn parse_str(&mut self) -> Result<string::String, ParserError> {$/;"	f
+parse_struct_info	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^    fn parse_struct_info(&mut self) -> PResult<'b, StructInfo> {$/;"	f
 parse_test_data	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/wpt.rs	/^fn parse_test_data(input: &str) -> Vec<Entry> {$/;"	f
+parse_type_annotation	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^    fn parse_type_annotation(p: &mut Parser<'b>)$/;"	f
 parse_u64	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn parse_u64(&mut self) -> Result<u64, ParserError> {$/;"	f
 parse_url	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/parser.rs	/^pub fn parse_url(input: &str, parser: &UrlParser) -> ParseResult<Url> {$/;"	f
 parse_userinfo	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/parser.rs	/^fn parse_userinfo<'a>(input: &'a str, parser: &UrlParser)$/;"	f
 parse_value	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn parse_value(&mut self) -> JsonEvent {$/;"	f
 parse_whitespace	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn parse_whitespace(&mut self) {$/;"	f
 parse_with_encoding	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/form_urlencoded.rs	/^pub fn parse_with_encoding(input: &[u8], encoding_override: Option<::encoding::EncodingRef>,$/;"	f
-parser	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn parser(&self) -> &Parser {$/;"	f
-partial_cmp	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn partial_cmp(&self, other: &Atom) -> Option<Ordering> {$/;"	f
+parser	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn parser(&self) -> &Parser {$/;"	f
+partial_cmp	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn partial_cmp(&self, other: &Atom) -> Option<Ordering> {$/;"	f
 partial_cmp	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/shared/quality_item.rs	/^    fn partial_cmp(&self, other: &QualityItem<T>) -> Option<cmp::Ordering> {$/;"	f
 partial_cmp	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/status.rs	/^    fn partial_cmp(&self, other: &StatusCode) -> Option<Ordering> {$/;"	f
 partial_cmp	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    fn partial_cmp(&self, other: &RelativeSchemeData) -> Option<Ordering> {$/;"	f
 passes_bidi	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/idna.rs	/^fn passes_bidi(label: &str, transitional_processing: bool) -> bool {$/;"	f
 password	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn password(&self) -> Option<&str> {$/;"	f
 password_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn password_mut(&mut self) -> Option<&mut String> {$/;"	f
+pat_type	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^    fn pat_type(&self, cx: &ExtCtxt, atom: &Atom, opts: &Options) -> P<ast::Ty> {$/;"	f
 patch	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/mod.rs	/^    pub fn patch<U: IntoUrl>(&self, url: U) -> RequestBuilder {$/;"	f
 path	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn path(&self) -> Option<&[String]> {$/;"	f
 path_formatting	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/format.rs	/^fn path_formatting() {$/;"	f
 path_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn path_mut(&mut self) -> Option<&mut Vec<String>> {$/;"	f
 path_to_file_url_path	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^fn path_to_file_url_path(path: &Path) -> Result<Vec<String>, ()> {$/;"	f
 path_to_file_url_path_windows	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^fn path_to_file_url_path_windows(path: &Path) -> Result<Vec<String>, ()> {$/;"	f
-pattern	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn pattern(&mut self) -> Result<Pattern, String> {$/;"	f
-pattern_tokens	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^fn pattern_tokens(pat: &str) -> Vec<String> {$/;"	f
+pattern	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn pattern(&mut self) -> Result<Pattern, String> {$/;"	f
+pattern_tokens	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^fn pattern_tokens(pat: &str) -> Vec<String> {$/;"	f
 peel	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^macro_rules! peel {$/;"	d
 peer_addr	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/benches/client.rs	/^    fn peer_addr(&mut self) -> io::Result<SocketAddr> {$/;"	f
 peer_addr	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/pool.rs	/^    fn peer_addr(&mut self) -> io::Result<SocketAddr> {$/;"	f
@@ -1293,16 +1326,17 @@ percent_decode_to	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src
 percent_encode	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/percent_encoding.rs	/^pub fn percent_encode(input: &[u8], encode_set: EncodeSet) -> String {$/;"	f
 percent_encode_to	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/percent_encoding.rs	/^pub fn percent_encode_to(input: &[u8], encode_set: EncodeSet, output: &mut String) {$/;"	f
 plaintext	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/content_type.rs	/^    pub fn plaintext() -> ContentType {$/;"	f
+plugin_registrar	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^pub fn plugin_registrar(reg: &mut Registry) {$/;"	f
 png	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/content_type.rs	/^    pub fn png() -> ContentType {$/;"	f
-pop	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn pop(&mut self) -> Result<DecoderItem, Error> {$/;"	f
+pop	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn pop(&mut self) -> Result<DecoderItem, Error> {$/;"	f
 pop	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn pop(&mut self) -> DecodeResult<Json> {$/;"	f
 pop	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn pop(&mut self) {$/;"	f
-pop_key_val	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn pop_key_val(&mut self) -> Result<(String, Value), Error> {$/;"	f
-pop_val	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn pop_val(&mut self) -> Result<Value, Error> {$/;"	f
+pop_key_val	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn pop_key_val(&mut self) -> Result<(String, Value), Error> {$/;"	f
+pop_val	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn pop_val(&mut self) -> Result<Value, Error> {$/;"	f
 port	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn port(&self) -> Option<u16> {$/;"	f
 port_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn port_mut(&mut self) -> Option<&mut Option<u16>> {$/;"	f
 port_or_default	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn port_or_default(&self) -> Option<u16> {$/;"	f
-positional	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn positional(&mut self) -> Result<Pattern, String> {$/;"	f
+positional	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn positional(&mut self) -> Result<Pattern, String> {$/;"	f
 post	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/mod.rs	/^    pub fn post<U: IntoUrl>(&self, url: U) -> RequestBuilder {$/;"	f
 prepare_body	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h2.rs	/^fn prepare_body(body: Vec<u8>) -> Option<Vec<u8>> {$/;"	f
 prepare_headers	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h2.rs	/^fn prepare_headers(mut headers: Headers) -> Vec<Http2Header> {$/;"	f
@@ -1310,7 +1344,7 @@ prepare_path	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/gith
 pretty	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn pretty(&self) -> PrettyJson {$/;"	f
 previous_response_expected_no_content	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/pool.rs	/^    fn previous_response_expected_no_content(&self) -> bool {$/;"	f
 previous_response_expected_no_content	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^    fn previous_response_expected_no_content(&self) -> bool {$/;"	f
-push	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn push(&mut self, struct_field: &str) {$/;"	f
+push	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn push(&mut self, struct_field: &str) {$/;"	f
 push_index	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn push_index(&mut self, index: u32) {$/;"	f
 push_key	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn push_key(&mut self, key: string::String) {$/;"	f
 put	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/mod.rs	/^    pub fn put<U: IntoUrl>(&self, url: U) -> RequestBuilder {$/;"	f
@@ -1333,41 +1367,41 @@ read	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-8
 read	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^    fn read(&mut self, buf: &mut [u8]) -> io::Result<usize> {$/;"	f
 read	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/request.rs	/^    fn read(&mut self, buf: &mut [u8]) -> io::Result<usize> {$/;"	f
 read	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/uri.rs	/^    fn read(s: &str, result: RequestUri) {$/;"	f
-read_bool	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_bool(&mut self) -> Result<bool, Error> {$/;"	f
+read_bool	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_bool(&mut self) -> Result<bool, Error> {$/;"	f
 read_bool	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_bool(&mut self) -> DecodeResult<bool> {$/;"	f
 read_bool	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_bool(&mut self) -> Result<bool, Self::Error> { Err(()) }$/;"	f
 read_bool	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_bool(&mut self) -> Result<bool, Self::Error>;$/;"	f
-read_char	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_char(&mut self) -> Result<char, Error> {$/;"	f
+read_char	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_char(&mut self) -> Result<char, Error> {$/;"	f
 read_char	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_char(&mut self) -> DecodeResult<char> {$/;"	f
 read_char	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_char(&mut self) -> Result<char, Self::Error> { Err(()) }$/;"	f
 read_char	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_char(&mut self) -> Result<char, Self::Error>;$/;"	f
 read_chunk_size	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^fn read_chunk_size<R: Read>(rdr: &mut R) -> io::Result<u64> {$/;"	f
-read_enum	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_enum<T, F>(&mut self, _: &str, f: F) -> Result<T, Error>$/;"	f
+read_enum	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_enum<T, F>(&mut self, _: &str, f: F) -> Result<T, Error>$/;"	f
 read_enum	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_enum<T, F>(&mut self, _name: &str, f: F) -> DecodeResult<T> where$/;"	f
 read_enum	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_enum<T, F>(&mut self, name: &str, f: F) -> Result<T, Self::Error>$/;"	f
 read_enum	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_enum<T, F>(&mut self, name: &str, f: F) -> Result<T, Self::Error>$/;"	f
-read_enum_struct_variant	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_enum_struct_variant<T, F>(&mut self, _: &[&str], _: F)$/;"	f
+read_enum_struct_variant	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_enum_struct_variant<T, F>(&mut self, _: &[&str], _: F)$/;"	f
 read_enum_struct_variant	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_enum_struct_variant<T, F>(&mut self, names: &[&str], f: F) -> DecodeResult<T> where$/;"	f
 read_enum_struct_variant	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_enum_struct_variant<T, F>(&mut self, names: &[&str], f: F)$/;"	f
 read_enum_struct_variant	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_enum_struct_variant<T, F>(&mut self, names: &[&str], f: F)$/;"	f
-read_enum_struct_variant_field	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_enum_struct_variant_field<T, F>(&mut self, _: &str, _: usize, _: F)$/;"	f
+read_enum_struct_variant_field	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_enum_struct_variant_field<T, F>(&mut self, _: &str, _: usize, _: F)$/;"	f
 read_enum_struct_variant_field	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_enum_struct_variant_field<T, F>(&mut self,$/;"	f
 read_enum_struct_variant_field	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_enum_struct_variant_field<T, F>(&mut self,$/;"	f
 read_enum_struct_variant_field	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_enum_struct_variant_field<T, F>(&mut self,$/;"	f
-read_enum_variant	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_enum_variant<T, F>(&mut self, names: &[&str], mut f: F)$/;"	f
+read_enum_variant	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_enum_variant<T, F>(&mut self, names: &[&str], mut f: F)$/;"	f
 read_enum_variant	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_enum_variant<T, F>(&mut self, names: &[&str],$/;"	f
 read_enum_variant	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_enum_variant<T, F>(&mut self, names: &[&str], f: F)$/;"	f
 read_enum_variant	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_enum_variant<T, F>(&mut self, names: &[&str], f: F)$/;"	f
-read_enum_variant_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_enum_variant_arg<T, F>(&mut self, _: usize, _: F)$/;"	f
+read_enum_variant_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_enum_variant_arg<T, F>(&mut self, _: usize, _: F)$/;"	f
 read_enum_variant_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_enum_variant_arg<T, F>(&mut self, _idx: usize, f: F) -> DecodeResult<T> where$/;"	f
 read_enum_variant_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_enum_variant_arg<T, F>(&mut self, a_idx: usize, f: F)$/;"	f
 read_enum_variant_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_enum_variant_arg<T, F>(&mut self, a_idx: usize, f: F)$/;"	f
 read_err	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^        fn read_err(s: &str) {$/;"	f
-read_f32	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_f32(&mut self) -> Result<f32, Error> {$/;"	f
+read_f32	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_f32(&mut self) -> Result<f32, Error> {$/;"	f
 read_f32	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_f32(&mut self) -> DecodeResult<f32> {$/;"	f
 read_f32	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_f32(&mut self) -> Result<f32, Self::Error> { Err(()) }$/;"	f
 read_f32	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_f32(&mut self) -> Result<f32, Self::Error>;$/;"	f
-read_f64	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_f64(&mut self) -> Result<f64, Error> {$/;"	f
+read_f64	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_f64(&mut self) -> Result<f64, Error> {$/;"	f
 read_f64	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_f64(&mut self) -> DecodeResult<f64> {$/;"	f
 read_f64	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_f64(&mut self) -> Result<f64, Self::Error> { Err(()) }$/;"	f
 read_f64	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_f64(&mut self) -> Result<f64, Self::Error>;$/;"	f
@@ -1382,45 +1416,45 @@ read_i8	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.co
 read_into_buf	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/buffer.rs	/^    pub fn read_into_buf(&mut self) -> io::Result<usize> {$/;"	f
 read_isize	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_isize(&mut self) -> Result<isize, Self::Error> { Err(()) }$/;"	f
 read_isize	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_isize(&mut self) -> Result<isize, Self::Error>;$/;"	f
-read_map	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_map<T, F>(&mut self, _: F) -> Result<T, Error>$/;"	f
+read_map	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_map<T, F>(&mut self, _: F) -> Result<T, Error>$/;"	f
 read_map	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_map<T, F>(&mut self, f: F) -> DecodeResult<T> where$/;"	f
 read_map	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_map<T, F>(&mut self, f: F) -> Result<T, Self::Error>$/;"	f
 read_map	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_map<T, F>(&mut self, f: F) -> Result<T, Self::Error>$/;"	f
-read_map_elt_key	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_map_elt_key<T, F>(&mut self, _: usize, _: F) -> Result<T, Error>$/;"	f
+read_map_elt_key	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_map_elt_key<T, F>(&mut self, _: usize, _: F) -> Result<T, Error>$/;"	f
 read_map_elt_key	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_map_elt_key<T, F>(&mut self, _idx: usize, f: F) -> DecodeResult<T> where$/;"	f
 read_map_elt_key	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_map_elt_key<T, F>(&mut self, idx: usize, f: F)$/;"	f
 read_map_elt_key	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_map_elt_key<T, F>(&mut self, idx: usize, f: F)$/;"	f
-read_map_elt_val	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_map_elt_val<T, F>(&mut self, _: usize, _: F) -> Result<T, Error>$/;"	f
+read_map_elt_val	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_map_elt_val<T, F>(&mut self, _: usize, _: F) -> Result<T, Error>$/;"	f
 read_map_elt_val	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_map_elt_val<T, F>(&mut self, _idx: usize, f: F) -> DecodeResult<T> where$/;"	f
 read_map_elt_val	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_map_elt_val<T, F>(&mut self, idx: usize, f: F)$/;"	f
 read_map_elt_val	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_map_elt_val<T, F>(&mut self, idx: usize, f: F)$/;"	f
-read_nil	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_nil(&mut self) -> Result<(), Error> {$/;"	f
+read_nil	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_nil(&mut self) -> Result<(), Error> {$/;"	f
 read_nil	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_nil(&mut self) -> DecodeResult<()> {$/;"	f
 read_nil	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_nil(&mut self) -> Result<(), Self::Error> { Err(()) }$/;"	f
 read_nil	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_nil(&mut self) -> Result<(), Self::Error>;$/;"	f
-read_num	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^macro_rules! read_num {$/;"	d
-read_option	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_option<T, F>(&mut self, mut f: F) -> Result<T, Error>$/;"	f
+read_num	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^macro_rules! read_num {$/;"	d
+read_option	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_option<T, F>(&mut self, mut f: F) -> Result<T, Error>$/;"	f
 read_option	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_option<T, F>(&mut self, mut f: F) -> DecodeResult<T> where$/;"	f
 read_option	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_option<T, F>(&mut self, f: F) -> Result<T, Self::Error>$/;"	f
 read_option	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_option<T, F>(&mut self, f: F) -> Result<T, Self::Error>$/;"	f
 read_primitive	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^macro_rules! read_primitive {$/;"	d
-read_seq	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_seq<T, F>(&mut self, f: F) -> Result<T, Error>$/;"	f
+read_seq	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_seq<T, F>(&mut self, f: F) -> Result<T, Error>$/;"	f
 read_seq	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_seq<T, F>(&mut self, f: F) -> DecodeResult<T> where$/;"	f
 read_seq	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_seq<T, F>(&mut self, f: F) -> Result<T, Self::Error>$/;"	f
 read_seq	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_seq<T, F>(&mut self, f: F) -> Result<T, Self::Error>$/;"	f
-read_seq_elt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_seq_elt<T, F>(&mut self, _: usize, f: F) -> Result<T, Error>$/;"	f
+read_seq_elt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_seq_elt<T, F>(&mut self, _: usize, f: F) -> Result<T, Error>$/;"	f
 read_seq_elt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_seq_elt<T, F>(&mut self, _idx: usize, f: F) -> DecodeResult<T> where$/;"	f
 read_seq_elt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_seq_elt<T, F>(&mut self, idx: usize, f: F) -> Result<T, Self::Error>$/;"	f
 read_seq_elt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_seq_elt<T, F>(&mut self, idx: usize, f: F) -> Result<T, Self::Error>$/;"	f
-read_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_str(&mut self) -> Result<String, Error> {$/;"	f
+read_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_str(&mut self) -> Result<String, Error> {$/;"	f
 read_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_str(&mut self) -> DecodeResult<string::String> {$/;"	f
 read_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_str(&mut self) -> Result<String, Self::Error> { Err(()) }$/;"	f
 read_str	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_str(&mut self) -> Result<String, Self::Error>;$/;"	f
-read_struct	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_struct<T, F>(&mut self, _: &str, _: usize, f: F) -> Result<T, Error>$/;"	f
+read_struct	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_struct<T, F>(&mut self, _: &str, _: usize, f: F) -> Result<T, Error>$/;"	f
 read_struct	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_struct<T, F>(&mut self, _name: &str, _len: usize, f: F) -> DecodeResult<T> where$/;"	f
 read_struct	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_struct<T, F>(&mut self, s_name: &str, len: usize, f: F)$/;"	f
 read_struct	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_struct<T, F>(&mut self, s_name: &str, len: usize, f: F)$/;"	f
-read_struct_field	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_struct_field<T, F>(&mut self, f_name: &str, _: usize, f: F)$/;"	f
+read_struct_field	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_struct_field<T, F>(&mut self, f_name: &str, _: usize, f: F)$/;"	f
 read_struct_field	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_struct_field<T, F>(&mut self,$/;"	f
 read_struct_field	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_struct_field<T, F>(&mut self,$/;"	f
 read_struct_field	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_struct_field<T, F>(&mut self,$/;"	f
@@ -1428,19 +1462,19 @@ read_to_string	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/gi
 read_to_string	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/request.rs	/^    fn read_to_string(mut req: Request) -> io::Result<String> {$/;"	f
 read_to_vec	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_to_vec<T, F>(&mut self, f: F)$/;"	f
 read_to_vec	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_to_vec<T, F>(&mut self, mut f: F) -> Result<Vec<T>, D::Error> where F:$/;"	f
-read_tuple	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_tuple<T, F>(&mut self, _: usize, _: F) -> Result<T, Error>$/;"	f
+read_tuple	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_tuple<T, F>(&mut self, _: usize, _: F) -> Result<T, Error>$/;"	f
 read_tuple	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_tuple<T, F>(&mut self, tuple_len: usize, f: F) -> DecodeResult<T> where$/;"	f
 read_tuple	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_tuple<T, F>(&mut self, len: usize, f: F) -> Result<T, Self::Error>$/;"	f
 read_tuple	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_tuple<T, F>(&mut self, len: usize, f: F) -> Result<T, Self::Error>$/;"	f
-read_tuple_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_tuple_arg<T, F>(&mut self, _: usize, _: F) -> Result<T, Error>$/;"	f
+read_tuple_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_tuple_arg<T, F>(&mut self, _: usize, _: F) -> Result<T, Error>$/;"	f
 read_tuple_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_tuple_arg<T, F>(&mut self, idx: usize, f: F) -> DecodeResult<T> where$/;"	f
 read_tuple_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_tuple_arg<T, F>(&mut self, a_idx: usize, f: F)$/;"	f
 read_tuple_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_tuple_arg<T, F>(&mut self, a_idx: usize, f: F)$/;"	f
-read_tuple_struct	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_tuple_struct<T, F>(&mut self, _: &str, _: usize, _: F)$/;"	f
+read_tuple_struct	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_tuple_struct<T, F>(&mut self, _: &str, _: usize, _: F)$/;"	f
 read_tuple_struct	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_tuple_struct<T, F>(&mut self,$/;"	f
 read_tuple_struct	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_tuple_struct<T, F>(&mut self, s_name: &str, len: usize, f: F)$/;"	f
 read_tuple_struct	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_tuple_struct<T, F>(&mut self, s_name: &str, len: usize, f: F)$/;"	f
-read_tuple_struct_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn read_tuple_struct_arg<T, F>(&mut self, _: usize, _: F)$/;"	f
+read_tuple_struct_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn read_tuple_struct_arg<T, F>(&mut self, _: usize, _: F)$/;"	f
 read_tuple_struct_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn read_tuple_struct_arg<T, F>(&mut self,$/;"	f
 read_tuple_struct_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^        fn read_tuple_struct_arg<T, F>(&mut self, a_idx: usize, f: F)$/;"	f
 read_tuple_struct_arg	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_tuple_struct_arg<T, F>(&mut self, a_idx: usize, f: F)$/;"	f
@@ -1456,27 +1490,27 @@ read_usize	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github
 read_usize	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^    fn read_usize(&mut self) -> Result<usize, Self::Error>;$/;"	f
 reader_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^    fn reader_mut(&mut self) -> Option<&mut HttpReader<BufReader<Box<NetworkStream + Send>>>> {$/;"	f
 reader_ref	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^    fn reader_ref(&self) -> Option<&HttpReader<BufReader<Box<NetworkStream + Send>>>> {$/;"	f
-regex	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/lib.rs	/^macro_rules! regex($/;"	d
-regex	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/wordlist.rs	/^macro_rules! regex($/;"	d
-regression_issue_12	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/test/mod.rs	/^fn regression_issue_12() {$/;"	f
+regex	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/lib.rs	/^macro_rules! regex($/;"	d
+regex	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/wordlist.rs	/^macro_rules! regex($/;"	d
+regression_issue_12	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/test/mod.rs	/^fn regression_issue_12() {$/;"	f
 relative_scheme_data	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn relative_scheme_data(&self) -> Option<&RelativeSchemeData> {$/;"	f
 relative_scheme_data_equality	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/tests.rs	/^fn relative_scheme_data_equality() {$/;"	f
 relative_scheme_data_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn relative_scheme_data_mut(&mut self) -> Option<&mut RelativeSchemeData> {$/;"	f
 relative_scheme_url_formatting	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/format.rs	/^fn relative_scheme_url_formatting() {$/;"	f
 remove	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^    pub fn remove<H: Header + HeaderFormat>(&mut self) -> bool {$/;"	f
 remove_raw	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^    pub fn remove_raw(&mut self, name: &str) {$/;"	f
-repeat	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn repeat(p: Pattern) -> Pattern {$/;"	f
+repeat	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn repeat(p: Pattern) -> Pattern {$/;"	f
 replace_plus	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/form_urlencoded.rs	/^            fn replace_plus(input: &[u8]) -> Vec<u8> {$/;"	f
 request	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/mod.rs	/^    pub fn request<U: IntoUrl>(&self, method: Method, url: U) -> RequestBuilder {$/;"	f
-resolve	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/synonym.rs	/^    pub fn resolve(&self, k: &K) -> K {$/;"	f
+resolve	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/synonym.rs	/^    pub fn resolve(&self, k: &K) -> K {$/;"	f
 reuse	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/pool.rs	/^    fn reuse(&mut self, key: Key, conn: PooledStreamInner<S>) {$/;"	f
-run	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/wordlist.rs	/^fn run(args: Args) -> Result<(), String> {$/;"	f
+run	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/wordlist.rs	/^fn run(args: Args) -> Result<(), String> {$/;"	f
 run_one	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/wpt.rs	/^fn run_one(entry: Entry) {$/;"	f
 run_request	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/request.rs	/^    fn run_request(req: Request<Fresh>) -> Vec<u8> {$/;"	f
 safe	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/method.rs	/^    pub fn safe(&self) -> bool {$/;"	f
-same_args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/test/mod.rs	/^fn same_args(expected: &HashMap<String, Value>, got: &ArgvMap) {$/;"	f
+same_args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/test/mod.rs	/^fn same_args(expected: &HashMap<String, Value>, got: &ArgvMap) {$/;"	f
 same_as	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn same_as(&self, other: SchemeType) -> bool {$/;"	f
-sanitize	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^        fn sanitize(name: &str) -> String {$/;"	f
+sanitize	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^        fn sanitize(name: &str) -> String {$/;"	f
 scheme	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/authorization.rs	/^	fn scheme() -> Option<&'static str> {$/;"	f
 scheme	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/authorization.rs	/^    fn scheme() -> Option<&'static str> {$/;"	f
 scheme	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/authorization.rs	/^    fn scheme() -> Option<&'static str>;$/;"	f
@@ -1485,7 +1519,7 @@ search	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com
 send	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/mod.rs	/^    pub fn send(self) -> ::Result<Response> {$/;"	f
 send	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/request.rs	/^    pub fn send(self) -> ::Result<Response> {$/;"	f
 send	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/response.rs	/^    pub fn send(mut self, body: &[u8]) -> io::Result<()> {$/;"	f
-send_request	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/request.rs	/^    pub fn send_request(&self) -> String$/;"	f
+send_request	/Users/kaiyin/EclipseWorkspace/rust-stockfighter/src/request.rs	/^    pub fn send_request(&self) -> String {$/;"	f
 serialize	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/mod.rs	/^            fn serialize<S>(&self, serializer: &mut S) -> Result<(), S::Error>$/;"	f
 serialize	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^    fn serialize<S>(&self, serializer: &mut S) -> Result<(), S::Error> where S: Serializer {$/;"	f
 serialize	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/mod.rs	/^    fn serialize<S>(&self, serializer: &mut S) -> Result<(), S::Error> where S: Serializer {$/;"	f
@@ -1567,7 +1601,7 @@ simple_enum_error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src
 size	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/mod.rs	/^    fn size(&self) -> Option<u64> {$/;"	f
 skip_slashes	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/parser.rs	/^fn skip_slashes<'a>(input: &'a str, parser: &UrlParser) -> ParseResult<&'a str> {$/;"	f
 sock	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/request.rs	/^    fn sock(s: &str) -> SocketAddr {$/;"	f
-sorted	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^        fn sorted<T: Ord>(mut xs: Vec<T>) -> Vec<T> {$/;"	f
+sorted	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^        fn sorted<T: Ord>(mut xs: Vec<T>) -> Vec<T> {$/;"	f
 spaces	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^fn spaces(wr: &mut fmt::Write, n: u32) -> EncodeResult<()> {$/;"	f
 spawn_with	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/listener.rs	/^fn spawn_with<A, F>(supervisor: mpsc::Sender<()>, work: Arc<F>, mut acceptor: A)$/;"	f
 split_in_two	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/content_range.rs	/^fn split_in_two(s: &str, separator: char) -> Option<(&str, &str)> {$/;"	f
@@ -1578,10 +1612,10 @@ start	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-
 starts_with	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn starts_with(&self, rhs: &[StackElement]) -> bool {$/;"	f
 starts_with_2_hex	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/parser.rs	/^fn starts_with_2_hex(input: &str) -> bool {$/;"	f
 starts_with_ascii_alpha	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/parser.rs	/^pub fn starts_with_ascii_alpha(string: &str) -> bool {$/;"	f
-state_consumed_all_argv	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn state_consumed_all_argv(&self, state: &MState) -> bool {$/;"	f
-state_has_valid_flags	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn state_has_valid_flags(&self, state: &MState) -> bool {$/;"	f
-state_valid_num_flags	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn state_valid_num_flags(&self, state: &MState) -> bool {$/;"	f
-states	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn states(&self, pat: &Pattern, init: &MState) -> Vec<MState> {$/;"	f
+state_consumed_all_argv	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn state_consumed_all_argv(&self, state: &MState) -> bool {$/;"	f
+state_has_valid_flags	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn state_has_valid_flags(&self, state: &MState) -> bool {$/;"	f
+state_valid_num_flags	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn state_valid_num_flags(&self, state: &MState) -> bool {$/;"	f
+states	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn states(&self, pat: &Pattern, init: &MState) -> Vec<MState> {$/;"	f
 status	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/response.rs	/^    pub fn status(&self) -> status::StatusCode { self.status }$/;"	f
 status_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/response.rs	/^    pub fn status_mut(&mut self) -> &mut status::StatusCode { &mut self.status }$/;"	f
 status_raw	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/response.rs	/^    pub fn status_raw(&self) -> &RawStatus {$/;"	f
@@ -1589,11 +1623,13 @@ str_join	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.c
 strong	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/shared/entity.rs	/^    pub fn strong(tag: String) -> EntityTag {$/;"	f
 strong_eq	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/shared/entity.rs	/^    pub fn strong_eq(&self, other: &EntityTag) -> bool {$/;"	f
 strong_ne	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/shared/entity.rs	/^    pub fn strong_ne(&self, other: &EntityTag) -> bool {$/;"	f
-struct_field_to_key	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn struct_field_to_key(field: &str) -> String {$/;"	f
-swap	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/synonym.rs	/^    pub fn swap(&mut self, k: K, mut new: V) -> Option<V> {$/;"	f
-synonyms	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/synonym.rs	/^    pub fn synonyms(&self) -> Iter<K, K> {$/;"	f
+struct_decl	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^    fn struct_decl(&self, cx: &ExtCtxt) -> P<ast::Item> {$/;"	f
+struct_field_to_key	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn struct_field_to_key(field: &str) -> String {$/;"	f
+struct_fields	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^    fn struct_fields(&self, cx: &ExtCtxt) -> Vec<ast::StructField> {$/;"	f
+swap	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/synonym.rs	/^    pub fn swap(&mut self, k: K, mut new: V) -> Option<V> {$/;"	f
+synonyms	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/synonym.rs	/^    pub fn synonyms(&self) -> Iter<K, K> {$/;"	f
 tag	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/shared/entity.rs	/^    pub fn tag(&self) -> &str {$/;"	f
-tag_repeats	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn tag_repeats(&self, map: &mut SynonymMap<Atom, Options>) {$/;"	f
+tag_repeats	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn tag_repeats(&self, map: &mut SynonymMap<Atom, Options>) {$/;"	f
 take_request	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h2.rs	/^    fn take_request(&mut self) -> Option<Http2Request> {$/;"	f
 test2	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/vary.rs	/^        fn test2() {$/;"	f
 test3	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/upgrade.rs	/^        fn test3() {$/;"	f
@@ -1659,7 +1695,7 @@ test_eq	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.co
 test_etag_fmt	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/shared/entity.rs	/^    fn test_etag_fmt() {$/;"	f
 test_etag_parse_failures	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/shared/entity.rs	/^    fn test_etag_parse_failures() {$/;"	f
 test_etag_parse_success	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/shared/entity.rs	/^    fn test_etag_parse_success() {$/;"	f
-test_expect	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/test/mod.rs	/^macro_rules! test_expect($/;"	d
+test_expect	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/test/mod.rs	/^macro_rules! test_expect($/;"	d
 test_fail_with_args	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/prefer.rs	/^    fn test_fail_with_args() {$/;"	f
 test_find	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn test_find(){$/;"	f
 test_find_path	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn test_find_path(){$/;"	f
@@ -1844,7 +1880,7 @@ test_status_code	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/
 test_streaming_drop	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/response.rs	/^    fn test_streaming_drop() {$/;"	f
 test_streaming_end	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/response.rs	/^    fn test_streaming_end() {$/;"	f
 test_streaming_parser	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn test_streaming_parser() {$/;"	f
-test_suggest	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/test/suggestions.rs	/^macro_rules! test_suggest($/;"	d
+test_suggest	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/test/suggestions.rs	/^macro_rules! test_suggest($/;"	d
 test_to_base64_basic	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/base64.rs	/^    fn test_to_base64_basic() {$/;"	f
 test_to_base64_crlf_line_break	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/base64.rs	/^    fn test_to_base64_crlf_line_break() {$/;"	f
 test_to_base64_empty_line_length	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/base64.rs	/^    fn test_to_base64_empty_line_length() {$/;"	f
@@ -1861,7 +1897,7 @@ test_unexpected_token	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry
 test_uri_display	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/uri.rs	/^fn test_uri_display() {$/;"	f
 test_uri_fromstr	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/uri.rs	/^fn test_uri_fromstr() {$/;"	f
 test_url_query	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/request.rs	/^    fn test_url_query() {$/;"	f
-test_user_error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/test/mod.rs	/^macro_rules! test_user_error($/;"	d
+test_user_error	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/test/mod.rs	/^macro_rules! test_user_error($/;"	d
 test_uts46	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/idna.rs	/^fn test_uts46() {$/;"	f
 test_write_array	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn test_write_array() {$/;"	f
 test_write_bool	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn test_write_bool() {$/;"	f
@@ -1881,7 +1917,7 @@ to_base64	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.
 to_base64	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/base64.rs	/^    fn to_base64(&self, config: Config) -> String;$/;"	f
 to_cookie_jar	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/common/cookie.rs	/^    pub fn to_cookie_jar(&self, key: &[u8]) -> CookieJar<'static> {$/;"	f
 to_file_path	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn to_file_path(&self) -> Result<PathBuf, ()> {$/;"	f
-to_float	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn to_float(&mut self, expect: &str) -> Result<f64, Error> {$/;"	f
+to_float	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn to_float(&mut self, expect: &str) -> Result<f64, Error> {$/;"	f
 to_hex	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/hex.rs	/^    fn to_hex(&self) -> String {$/;"	f
 to_hex	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/hex.rs	/^    fn to_hex(&self) -> String;$/;"	f
 to_json	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^            fn to_json(&self) -> Json { Json::I64(*self as i64) }$/;"	f
@@ -1898,11 +1934,11 @@ to_json	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.co
 to_json	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    fn to_json(&self) -> Json;$/;"	f
 to_json_impl_i64	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^macro_rules! to_json_impl_i64 {$/;"	d
 to_json_impl_u64	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^macro_rules! to_json_impl_u64 {$/;"	d
-to_lowercase	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^fn to_lowercase<S: Into<String>>(s: S) -> String {$/;"	f
-to_number	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    fn to_number<T>(&mut self, expect: &str) -> Result<T, Error>$/;"	f
+to_lowercase	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^fn to_lowercase<S: Into<String>>(s: S) -> String {$/;"	f
+to_number	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    fn to_number<T>(&mut self, expect: &str) -> Result<T, Error>$/;"	f
 to_u16	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/status.rs	/^    pub fn to_u16(&self) -> u16 {$/;"	f
 todo	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/lib.rs	/^macro_rules! todo($/;"	d
-token_from	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn token_from(&self, state: &MState) -> Option<&ArgvToken> {$/;"	f
+token_from	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn token_from(&self, state: &MState) -> Option<&ArgvToken> {$/;"	f
 top	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^    pub fn top<'l>(&'l self) -> Option<StackElement<'l>> {$/;"	f
 try_option	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/server/mod.rs	/^macro_rules! try_option($/;"	d
 try_or_invalid	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^                            macro_rules! try_or_invalid {$/;"	d
@@ -1915,14 +1951,15 @@ try_split	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.
 try_split	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/mock.rs	/^    fn try_split(&self) -> Result<MockStream, io::Error> {$/;"	f
 tuple	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/serialize.rs	/^macro_rules! tuple {$/;"	d
 tuple_impl	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/rustc-serialize-0.3.19/src/json.rs	/^macro_rules! tuple_impl {$/;"	d
-type_as_usize	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn type_as_usize(&self) -> usize {$/;"	f
+ty_vec_string	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/docopt_macros/src/macro.rs	/^fn ty_vec_string(cx: &ExtCtxt) -> P<ast::Ty> {$/;"	f
+type_as_usize	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn type_as_usize(&self) -> usize {$/;"	f
 typed	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/internals/item.rs	/^    pub fn typed<H: Header + HeaderFormat + Any>(&self) -> Option<&H> {$/;"	f
 typed_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/internals/item.rs	/^    pub fn typed_mut<H: Header + HeaderFormat>(&mut self) -> Option<&mut H> {$/;"	f
 unescape	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/idna.rs	/^fn unescape(input: &str) -> String {$/;"	f
 unescape	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/wpt.rs	/^fn unescape(input: &str) -> String {$/;"	f
 url	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/tests.rs	/^    fn url(s: &str) -> Url {$/;"	f
-use_flag	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn use_flag(&mut self, flag: &Atom) -> bool {$/;"	f
-use_optional_flag	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/parse.rs	/^    fn use_optional_flag(&mut self, flag: &Atom) {$/;"	f
+use_flag	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn use_flag(&mut self, flag: &Atom) -> bool {$/;"	f
+use_optional_flag	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/parse.rs	/^    fn use_optional_flag(&mut self, flag: &Atom) {$/;"	f
 userinfo_formatting	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/tests/format.rs	/^fn userinfo_formatting() {$/;"	f
 username	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn username(&self) -> Option<&str> {$/;"	f
 username_mut	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^    pub fn username_mut(&mut self) -> Option<&mut String> {$/;"	f
@@ -1937,13 +1974,13 @@ validate	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.c
 value	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^    pub fn value<H: Header + HeaderFormat>(&self) -> Option<&'a H> {$/;"	f
 value_string	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^    pub fn value_string(&self) -> String {$/;"	f
 value_to_digit	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/punycode.rs	/^fn value_to_digit(value: u32, output: &mut String) {$/;"	f
-version	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/dopt.rs	/^    pub fn version(mut self, version: Option<String>) -> Docopt {$/;"	f
+version	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/dopt.rs	/^    pub fn version(mut self, version: Option<String>) -> Docopt {$/;"	f
 visit_map	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/mod.rs	/^            fn visit_map<V>(&mut self, mut visitor: V) -> Result<Headers, V::Error>$/;"	f
 weak	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/shared/entity.rs	/^    pub fn weak(tag: String) -> EntityTag {$/;"	f
 weak_eq	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/shared/entity.rs	/^    pub fn weak_eq(&self, other: &EntityTag) -> bool {$/;"	f
 weak_ne	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/header/shared/entity.rs	/^    pub fn weak_ne(&self, other: &EntityTag) -> bool {$/;"	f
-werr	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/lib.rs	/^macro_rules! werr($/;"	d
-werr	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/wordlist.rs	/^macro_rules! werr($/;"	d
+werr	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/lib.rs	/^macro_rules! werr($/;"	d
+werr	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/wordlist.rs	/^macro_rules! werr($/;"	d
 whatwg_scheme_type_mapper	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/url-0.5.9/src/lib.rs	/^pub fn whatwg_scheme_type_mapper(scheme: &str) -> SchemeType {$/;"	f
 with_capacity	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/buffer.rs	/^    pub fn with_capacity(rdr: R, cap: usize) -> BufReader<R> {$/;"	f
 with_cert_and_key	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^        pub fn with_cert_and_key<C, K>(cert: C, key: K) -> Result<Openssl, SslError>$/;"	f
@@ -1954,7 +1991,7 @@ with_connector	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/gi
 with_connector	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h1.rs	/^    pub fn with_connector<C, S>(c: C) -> Http11Protocol$/;"	f
 with_connector	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/http/h2.rs	/^    pub fn with_connector(connector: C) -> Http2Protocol<C, S> {$/;"	f
 with_input	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/mock.rs	/^    pub fn with_input(input: &[u8]) -> MockStream {$/;"	f
-with_key	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/docopt-0.6.80/src/synonym.rs	/^    fn with_key<T, F>(&self, k: &K, with: F) -> T where F: FnOnce(&K) -> T {$/;"	f
+with_key	/Users/kaiyin/.multirust/toolchains/nightly/cargo/git/checkouts/docopt.rs-51689ce5c21c4d6a/master/src/synonym.rs	/^    fn with_key<T, F>(&self, k: &K, with: F) -> T where F: FnOnce(&K) -> T {$/;"	f
 with_listener	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/net.rs	/^    pub fn with_listener(listener: HttpListener, ssl: S) -> HttpsListener<S> {$/;"	f
 with_message	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/request.rs	/^    pub fn with_message(method: Method, url: Url, message: Box<HttpMessage>)$/;"	f
 with_message	/Users/kaiyin/.multirust/toolchains/nightly/cargo/registry/src/github.com-88ac128001ac3a9a/hyper-0.8.1/src/client/response.rs	/^    pub fn with_message(url: Url, mut message: Box<HttpMessage>) -> ::Result<Response> {$/;"	f

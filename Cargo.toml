@@ -9,4 +9,3 @@ rustc-serialize = "0.3"
 
 [dependencies.docopt]
 git = "https://github.com/kindlychung/docopt.rs"
-rev = "e16e44aa126dad9d29e564c23e65ab102f2611a0"
